@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shield",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 8,
+      "width": 60,
+      "height": 60
+    },
+    "offset": {
+      "x": 0,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 60,
+      "height": 75
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "b1f231b9-152c-456d-8b3f-76d457a531c2@6c48a",
+    "packable": true
+  }
+}

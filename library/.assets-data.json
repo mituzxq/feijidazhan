@@ -1,0 +1,258 @@
+{
+  "6cdbc1dd-23bd-4d6a-8a6d-bdbee794a01f": {
+    "url": "db://assets/img",
+    "value": {}
+  },
+  "fe4a5635-c4ad-494a-afc3-59f0fff3b439": {
+    "url": "db://assets/script",
+    "value": {}
+  },
+  "1ae9cd0e-b06f-4c42-9dce-2b4d6583418d": {
+    "url": "db://assets/Prefab",
+    "value": {}
+  },
+  "a2afdbe0-ae97-4401-bf17-a5c5ec984b7b": {
+    "url": "db://assets/Prefab/scene-2d.scene",
+    "value": {}
+  },
+  "cf0e25c8-1f62-4ba7-a6f0-32e9cce0dc27": {
+    "url": "db://assets/scene",
+    "value": {}
+  },
+  "e96a15f9-d055-4f22-8dbb-6d7b81d8e80d": {
+    "url": "db://assets/scene/Main.scene",
+    "value": {}
+  },
+  "b8de5734-1b97-4320-9973-308571c72b58": {
+    "url": "db://assets/img/enemy0_die.png",
+    "value": {}
+  },
+  "eb276ba4-f24f-4550-8092-009b969e22c6": {
+    "url": "db://assets/img/hero1_die.png",
+    "value": {}
+  },
+  "54ec7df5-974c-40ad-b60c-a6cdc8e1d4ab": {
+    "url": "db://assets/img/enemy0.png",
+    "value": {}
+  },
+  "3a5ae3fe-ca80-40f2-8c6c-8558624ec45f": {
+    "url": "db://assets/img/bullet1.png",
+    "value": {}
+  },
+  "ac785bde-9510-4bb3-96e0-82414921892c": {
+    "url": "db://assets/img/hero1.png",
+    "value": {}
+  },
+  "330e689f-2f7f-4ec6-ac39-f634b47e4304": {
+    "url": "db://assets/img/background.png",
+    "value": {}
+  },
+  "0a07cbd6-2c05-4420-bbed-181e2331113f": {
+    "url": "db://assets/img/background-001.png",
+    "value": {}
+  },
+  "1997ccd1-cb3e-4e91-bd09-f12b0cb403d8": {
+    "url": "db://assets/script/Bgcontrol.ts",
+    "value": {}
+  },
+  "9bb9fd64-fcfd-4686-b953-79ec53452c53": {
+    "url": "db://assets/script/NewComponent.ts",
+    "value": {}
+  },
+  "a56c9d35-902f-48b4-b5b9-f958daef0124": {
+    "url": "db://assets/script/BackGround.ts",
+    "value": {}
+  },
+  "eb1aa709-13ac-4b08-ab82-b1d800563fe4": {
+    "url": "db://assets/script/Player.ts",
+    "value": {}
+  },
+  "64199437-ad89-4d67-bfb6-6f2e9f332539": {
+    "url": "db://assets/script/PlayerBullet.ts",
+    "value": {}
+  },
+  "a02822c6-4a1b-44b7-a234-a86397d78ea1": {
+    "url": "db://assets/Prefab/bullet.prefab",
+    "value": {}
+  },
+  "b8965a85-9c7d-4c3e-a3b4-472c4d7bc032": {
+    "url": "db://assets/script/GameManger.ts",
+    "value": {}
+  },
+  "58a78dca-0804-4410-8ab0-1de1e2643012": {
+    "url": "db://assets/Prefab/playerbullet.prefab",
+    "value": {}
+  },
+  "65ec9912-793b-47c4-bedc-8a79f93e74df": {
+    "url": "db://assets/script/Enemy.ts",
+    "value": {}
+  },
+  "cbf30ffb-890d-41aa-93b5-9c573902f878": {
+    "url": "db://assets/Prefab/enemy.prefab",
+    "value": {}
+  },
+  "fb3c2de8-cba7-4ae7-8e27-e1f7803ee7cf": {
+    "url": "db://assets/img/bullet2.png",
+    "value": {}
+  },
+  "5132c83e-a957-4398-a032-e2acfb112601": {
+    "url": "db://assets/script/EnemyBullet.ts",
+    "value": {}
+  },
+  "852977b2-18ce-40c9-9f90-4036dc83fae3": {
+    "url": "db://assets/Prefab/enemybullet.prefab",
+    "value": {}
+  },
+  "bbb9551e-07df-417c-8f63-80dbc4662b0e": {
+    "url": "db://assets/script/EnemyAll.ts",
+    "value": {}
+  },
+  "46a04aa4-140d-41c8-ba0e-d739da16cade": {
+    "url": "db://assets/script/Collider.ts",
+    "value": {}
+  },
+  "d7005e6a-8044-4cd4-9186-d6268ee64568": {
+    "url": "db://assets/img/energy.jpg",
+    "value": {}
+  },
+  "be619c54-f15b-4b83-90e4-bed1425574ea": {
+    "url": "db://assets/Prefab/energy.prefab",
+    "value": {}
+  },
+  "88067f4b-f17e-4977-becf-b09102abf634": {
+    "url": "db://assets/script/Energy.ts",
+    "value": {}
+  },
+  "af122dd5-a723-43b1-b3e5-7f53790d027c": {
+    "url": "db://assets/scene/Begin.scene",
+    "value": {}
+  },
+  "c1e285e8-fe78-4ff2-b4e3-cb4124ef894a": {
+    "url": "db://assets/BeginScript",
+    "value": {}
+  },
+  "cef91f00-bd22-4975-b5ca-0bc46c4ec83d": {
+    "url": "db://assets/BeginScript/fair.ts",
+    "value": {}
+  },
+  "3ac44d76-2ea5-4b72-861c-94eafc4e0577": {
+    "url": "db://assets/BeginScript/daodan.ts",
+    "value": {}
+  },
+  "5a93f286-6d36-4736-8626-596635cc4866": {
+    "url": "db://assets/img/missile.png",
+    "value": {}
+  },
+  "ce4a7542-6460-4ada-8b4c-b5a8ba18479a": {
+    "url": "db://assets/BeginScript/MainScene.ts",
+    "value": {}
+  },
+  "1912688d-763a-4586-b345-8582bf4017f5": {
+    "url": "db://assets/scene/Begin.scene",
+    "value": {}
+  },
+  "3c0e3768-f05f-4107-bfcd-ed1ad4c58bd4": {
+    "url": "db://assets/NewComponent.ts",
+    "value": {}
+  },
+  "4da84652-a40f-4dc1-bcfc-26d5b81c8475": {
+    "url": "db://assets/script/missile.ts",
+    "value": {}
+  },
+  "e3265410-b182-47ed-a5c0-e2cd6715b7c7": {
+    "url": "db://assets/is1.ts",
+    "value": {}
+  },
+  "33bb6bc9-a49a-4cb2-ac5e-20732aeb32fe": {
+    "url": "db://assets/Prefab/missile.prefab",
+    "value": {}
+  },
+  "4add5737-5802-40be-866c-b3d5379e8e73": {
+    "url": "db://assets/script/Missile.ts",
+    "value": {}
+  },
+  "6d98d1cb-a000-4683-a5eb-70931598ce5f": {
+    "url": "db://assets/Missile.ts",
+    "value": {}
+  },
+  "cbe79393-bad7-4bb0-a0cc-722617c8277d": {
+    "url": "db://assets/m1.ts",
+    "value": {}
+  },
+  "64556437-79f3-45ce-b79e-d8177da65a12": {
+    "url": "db://assets/m1.ts",
+    "value": {}
+  },
+  "9255619f-7c98-4444-aee1-3ef6b443bc3f": {
+    "url": "db://assets/script/Missile.ts",
+    "value": {}
+  },
+  "d308185f-da35-43af-bb51-6a999dbbc6d8": {
+    "url": "db://assets/script/Missile1.ts",
+    "value": {}
+  },
+  "e3e0f6a1-210b-48a9-a084-a78bbb80a7a7": {
+    "url": "db://assets/script/Missile.ts",
+    "value": {}
+  },
+  "b1f231b9-152c-456d-8b3f-76d457a531c2": {
+    "url": "db://assets/img/shield.png",
+    "value": {}
+  },
+  "5f5ca34a-50a9-43e3-8143-d2168d845abf": {
+    "url": "db://assets/Prefab/shield.prefab",
+    "value": {}
+  },
+  "94384943-ae9b-450b-a874-2a4155f251d9": {
+    "url": "db://assets/script/Shield.ts",
+    "value": {}
+  },
+  "ce942167-6fc8-41de-a323-45e43882972d": {
+    "url": "db://assets/scene/Begin.scene",
+    "value": {}
+  },
+  "82795144-d434-4e42-a716-6b5e98170181": {
+    "url": "db://assets/script/Begin.ts",
+    "value": {}
+  },
+  "4426192e-82b9-4a6a-9ac4-3b1c7e26fefc": {
+    "url": "db://assets/img/enemy1.png",
+    "value": {}
+  },
+  "f6c0b09b-c9de-478b-8469-7490e314adbb": {
+    "url": "db://assets/script/Energy1.ts",
+    "value": {}
+  },
+  "5368ceb6-875e-4093-b6ea-b5ba3c086af3": {
+    "url": "db://assets/script/Enemy-001.ts",
+    "value": {}
+  },
+  "011b42a4-6ea5-4c4a-8fb5-818d456ee9fd": {
+    "url": "db://assets/Prefab/enemybullet1.prefab",
+    "value": {}
+  },
+  "fdd3312a-f3b7-444e-831a-742429089902": {
+    "url": "db://assets/script/EnemyBullet1.ts",
+    "value": {}
+  },
+  "73f4e5b6-cd04-40df-8124-a4ffe5998c37": {
+    "url": "db://assets/Prefab/enemy1.prefab",
+    "value": {}
+  },
+  "eee1de6d-fcb6-4a31-9be8-f3d96f6130ef": {
+    "url": "db://assets/script/Enemy1.ts",
+    "value": {}
+  },
+  "7afd7714-ba9f-44c3-b4c6-ea8a0283071a": {
+    "url": "db://assets/script/EnemyBullet1.ts",
+    "value": {}
+  },
+  "f5e8b448-b5e2-442c-b91e-2248a625cce1": {
+    "url": "db://assets/Prefab/enemybullet1.prefab",
+    "value": {}
+  },
+  "bded8f1b-a109-4582-8ee9-238f1e1d08c6": {
+    "url": "db://assets/Prefab/enemy1.prefab",
+    "value": {}
+  }
+}

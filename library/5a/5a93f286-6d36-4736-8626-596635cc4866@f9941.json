@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "missile",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 56,
+      "height": 48
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 56,
+      "height": 48
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "5a93f286-6d36-4736-8626-596635cc4866@6c48a",
+    "packable": true
+  }
+}
