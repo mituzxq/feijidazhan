@@ -4917,3 +4917,1083 @@ Class ID: "46a04qkFA1ByLoO1znaFsre"
 2022-08-20T00:07:47.114Z - verbose: [Scene] Configure engine (0ms)
 2022-08-20T00:07:46.544Z - info: [Scene] Forward render pipeline initialized.
 2022-08-20T00:08:18.111Z - warn: Metrics: no valid info
+2022-08-24T00:24:25.405Z - log: [Package] menu@1.0.0 enable
+2022-08-24T00:24:25.412Z - log: [Package] profile@1.0.0 enable
+2022-08-24T00:24:25.432Z - log: [Package] project@1.0.2 enable
+2022-08-24T00:24:25.449Z - log: [Package] messages@1.0.0 enable
+2022-08-24T00:24:25.454Z - log: [Package] program@1.0.0 enable
+2022-08-24T00:24:25.466Z - log: [Package] tester@1.0.0 enable
+2022-08-24T00:24:25.477Z - log: [Package] preferences@1.0.0 enable
+2022-08-24T00:24:27.032Z - log: Setup mods mgr.: 457.28ms
+2022-08-24T00:24:27.035Z - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle-2d,physics-2d-builtin,profiler,skeletal-animation,spine,tiled-map,tween,ui,video,webview)
+2022-08-24T00:24:27.048Z - verbose: [Engine] QuickCompile engine (1383ms)
+2022-08-24T00:24:27.052Z - log: [Package] engine@1.0.6 enable
+2022-08-24T00:24:28.081Z - log: [Package] programming@1.0.0 enable
+2022-08-24T00:24:28.702Z - log: [Package] device@1.0.1 enable
+2022-08-24T00:24:28.738Z - log: [Package] ui-kit@1.0.1 enable
+2022-08-24T00:24:28.766Z - log: [Package] engine-extends@1.0.0 enable
+2022-08-24T00:24:28.884Z - log: [Package] asset-db@1.0.0 enable
+2022-08-24T00:24:28.930Z - log: [Package] scene@1.0.0 enable
+2022-08-24T00:24:29.309Z - log: [Package] server@1.0.0 enable
+2022-08-24T00:24:29.532Z - log: [Package] utils@1.0.0 enable
+2022-08-24T00:24:39.049Z - log: [Package] preview@1.0.1 enable
+2022-08-24T00:24:39.090Z - log: [Package] animator@1.0.0 enable
+2022-08-24T00:24:40.335Z - log: [Package] builder@1.3.2 enable
+2022-08-24T00:24:40.446Z - log: [Package] shortcuts@1.0.1 enable
+2022-08-24T00:24:40.515Z - log: [Package] animation-graph@1.0.0 enable
+2022-08-24T00:24:40.540Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-08-24T00:24:40.586Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-08-24T00:24:40.682Z - log: [Package] about@1.0.0 enable
+2022-08-24T00:24:40.786Z - log: [Package] assets@1.0.0 enable
+2022-08-24T00:24:40.824Z - log: [Package] console@1.0.0 enable
+2022-08-24T00:24:42.011Z - log: [Package] extension@3.0.16 enable
+2022-08-24T00:24:42.087Z - log: [Package] hierarchy@1.0.0 enable
+2022-08-24T00:24:42.137Z - log: [Package] inspector@1.0.0 enable
+2022-08-24T00:24:42.175Z - log: [Package] lightmap@1.0.4 enable
+2022-08-24T00:24:42.192Z - verbose: [AssetDB] Require engine code (1972ms)
+2022-08-24T00:24:42.245Z - log: [Package] node-library@1.0.1 enable
+2022-08-24T00:24:42.271Z - log: [Package] package-asset@1.0.0 enable
+2022-08-24T00:24:42.334Z - log: [Package] process@1.0.0 enable
+2022-08-24T00:24:42.382Z - log: [Package] reference-image@1.0.0 enable
+2022-08-24T00:24:42.405Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-08-24T00:24:42.433Z - log: [Package] android@1.0.0 enable
+2022-08-24T00:24:42.464Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-08-24T00:24:42.507Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-08-24T00:24:42.545Z - log: [Package] cocos-play@1.0.0 enable
+2022-08-24T00:24:42.576Z - log: [Package] huawei-agc@1.0.0 enable
+2022-08-24T00:24:42.606Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-08-24T00:24:42.678Z - log: [Package] ios@1.0.0 enable
+2022-08-24T00:24:42.713Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-08-24T00:24:42.747Z - log: [Package] link-sure@1.0.0 enable
+2022-08-24T00:24:42.776Z - log: [Package] linux@1.0.0 enable
+2022-08-24T00:24:42.833Z - log: [Package] mac@1.0.0 enable
+2022-08-24T00:24:43.677Z - log: [Package] native@1.0.0 enable
+2022-08-24T00:24:43.725Z - log: [Package] ohos@1.0.0 enable
+2022-08-24T00:24:43.763Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-08-24T00:24:43.804Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-08-24T00:24:43.854Z - log: [Package] qtt@1.0.0 enable
+2022-08-24T00:24:43.900Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-08-24T00:24:43.964Z - log: [Package] web-desktop@1.0.0 enable
+2022-08-24T00:24:44.018Z - log: [Package] web-mobile@1.0.0 enable
+2022-08-24T00:24:44.080Z - log: [Package] wechatgame@1.0.1 enable
+2022-08-24T00:24:44.106Z - log: [Package] windows@1.0.0 enable
+2022-08-24T00:24:44.131Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-08-24T00:24:45.358Z - log: [Package] cocos-service@3.0.3 enable
+2022-08-24T00:24:45.549Z - log: [Package] importer@1.0.0 enable
+2022-08-24T00:24:46.426Z - log: [Im-plugin] Check im-plugin version.
+2022-08-24T00:24:46.439Z - log: [Package] im-plugin@3.0.8 enable
+2022-08-24T00:24:47.684Z - log: [Im-plugin] No online info of im-plugin.
+2022-08-24T00:24:52.301Z - verbose: [Scene] Require engine code (1ms)
+2022-08-24T00:24:52.302Z - verbose: [Scene] Startup engine (0ms)
+2022-08-24T00:24:52.386Z - log: [Scene] Cocos Creator v3.5.2
+2022-08-24T00:24:53.090Z - verbose: [Scene] Open engine (788ms)
+2022-08-24T00:24:53.090Z - verbose: [Scene] Configure engine (0ms)
+2022-08-24T00:24:52.500Z - info: [Scene] Forward render pipeline initialized.
+2022-08-24T00:45:55.549Z - error: [Programming] 无法加载模块 file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/assets/script/BulletAudio.ts ：SyntaxError: D:\CocosDashboard\file:\C:\Users\zxq\Desktop\%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98\NewProject\assets\script\BulletAudio.ts: Unexpected token, expected "{" (8:61)
+
+   6 |     start() {
+   7 |         let player = this.getComponent(AudioSource).clip;
+>  8 |         loader.loadRes('audio/bullet', function (err, prefab);
+     |                                                              ^
+   9 |
+  10 |     }
+  11 |.[Programming] 无法加载模块 file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/assets/script/BulletAudio.ts ：SyntaxError: D:\CocosDashboard\file:\C:\Users\zxq\Desktop\%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98\NewProject\assets\script\BulletAudio.ts: Unexpected token, expected "{" (8:61)
+
+   6 |     start() {
+   7 |         let player = this.getComponent(AudioSource).clip;
+>  8 |         loader.loadRes('audio/bullet', function (err, prefab);
+     |                                                              ^
+   9 |
+  10 |     }
+  11 |.  
+|                                                              ^  
+9 |  
+10 |     }  
+11 |.  
+at Object.encode (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.error (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)  
+at Object.error (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\programming\dist\packer-driver\packer-driver.ccc:1:14689)  
+at QuickPack._inspect (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:134:13)  
+at async D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:219:35  
+at async D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-common\lib\launch-policy.js:9:30
+2022-08-24T00:45:55.610Z - error: [Programming] 无法加载模块 file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/assets/script/BulletAudio.ts ：SyntaxError: D:\CocosDashboard\file:\C:\Users\zxq\Desktop\%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98\NewProject\assets\script\BulletAudio.ts: Unexpected token, expected "{" (8:61)
+
+   6 |     start() {
+   7 |         let player = this.getComponent(AudioSource).clip;
+>  8 |         loader.loadRes('audio/bullet', function (err, prefab);
+     |                                                              ^
+   9 |
+  10 |     }
+  11 |.[Programming] 无法加载模块 file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/assets/script/BulletAudio.ts ：SyntaxError: D:\CocosDashboard\file:\C:\Users\zxq\Desktop\%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98\NewProject\assets\script\BulletAudio.ts: Unexpected token, expected "{" (8:61)
+
+   6 |     start() {
+   7 |         let player = this.getComponent(AudioSource).clip;
+>  8 |         loader.loadRes('audio/bullet', function (err, prefab);
+     |                                                              ^
+   9 |
+  10 |     }
+  11 |.  
+|                                                              ^  
+9 |  
+10 |     }  
+11 |.  
+at Object.encode (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.error (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)  
+at Object.error (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\programming\dist\packer-driver\packer-driver.ccc:1:14689)  
+at QuickPack._inspect (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:134:13)  
+at async D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:219:35  
+at async D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-common\lib\launch-policy.js:9:30
+2022-08-24T00:45:55.607Z - warn: [Scene] Missing class: ec5dfLmJblHBIquN+8XCFpaError: [Scene] Missing class: ec5dfLmJblHBIquN+8XCFpa
+    at Object.classFinder (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:92316:32)
+    at _Deserializer._deserializeTypeTaggedObject (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110240:24)
+    at _Deserializer._deserializeObject (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110181:23)
+    at _Deserializer._deserializeAndAssignField (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110390:32)
+    at _Deserializer._deserializeArray (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110215:34)
+    at _Deserializer._deserializeObject (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110187:23)
+2022-08-24T00:45:55.611Z - error: [Scene] Script "ec5dfLmJblHBIquN+8XCFpa" attached to "New Node" is missing or invalid. Detailed information:
+Node path: "Canvas/New Node"
+Script UUID: "ec5df2e6-25b9-4704-8aae-37ef17085a5a"
+Class ID: "ec5dfLmJblHBIquN+8XCFpa"
+Error: [Scene] Script "ec5dfLmJblHBIquN+8XCFpa" attached to "New Node" is missing or invalid. Detailed information:
+Node path: "Canvas/New Node"
+Script UUID: "ec5df2e6-25b9-4704-8aae-37ef17085a5a"
+Class ID: "ec5dfLmJblHBIquN+8XCFpa"
+
+    at report (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1187)
+    at reportByWalker (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1283)
+    at D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:306)
+    at doWalkProperties (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2143)
+2022-08-24T01:06:28.685Z - warn: [Scene] Missing class: ec5dfLmJblHBIquN+8XCFpaError: [Scene] Missing class: ec5dfLmJblHBIquN+8XCFpa
+    at Object.classFinder (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:92316:32)
+    at _Deserializer._deserializeTypeTaggedObject (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110240:24)
+    at _Deserializer._deserializeObject (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110181:23)
+    at _Deserializer._deserializeAndAssignField (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110390:32)
+    at _Deserializer._deserializeArray (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110215:34)
+    at _Deserializer._deserializeObject (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110187:23)
+2022-08-24T01:06:28.686Z - error: [Scene] Script "ec5dfLmJblHBIquN+8XCFpa" attached to "playerbullet" in prefab "playerbullet" is missing or invalid. Detailed information:
+Node path: "playerbullet"
+Asset url: "db://assets/Prefab/playerbullet"
+Script UUID: "ec5df2e6-25b9-4704-8aae-37ef17085a5a"
+Class ID: "ec5dfLmJblHBIquN+8XCFpa"
+Error: [Scene] Script "ec5dfLmJblHBIquN+8XCFpa" attached to "playerbullet" in prefab "playerbullet" is missing or invalid. Detailed information:
+Node path: "playerbullet"
+Asset url: "db://assets/Prefab/playerbullet"
+Script UUID: "ec5df2e6-25b9-4704-8aae-37ef17085a5a"
+Class ID: "ec5dfLmJblHBIquN+8XCFpa"
+
+    at report (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1187)
+    at reportByWalker (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1283)
+    at D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:306)
+    at doWalkProperties (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2143)
+2022-08-24T01:06:54.817Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading '__prefab') in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-08-24T01:06:55.156Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading '__prefab') in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-08-24T01:06:55.672Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading '__prefab') in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-08-24T01:06:56.189Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading '__prefab') in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-08-24T01:06:56.706Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading '__prefab') in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-08-24T01:06:57.222Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading '__prefab') in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-08-24T01:12:24.235Z - warn: Metrics: no valid info
+2022-08-24T01:23:03.121Z - log: [Package] menu@1.0.0 enable
+2022-08-24T01:23:03.126Z - log: [Package] profile@1.0.0 enable
+2022-08-24T01:23:03.144Z - log: [Package] project@1.0.2 enable
+2022-08-24T01:23:03.168Z - log: [Package] messages@1.0.0 enable
+2022-08-24T01:23:03.177Z - log: [Package] program@1.0.0 enable
+2022-08-24T01:23:03.199Z - log: [Package] tester@1.0.0 enable
+2022-08-24T01:23:03.217Z - log: [Package] preferences@1.0.0 enable
+2022-08-24T01:23:04.026Z - log: Setup mods mgr.: 392.417ms
+2022-08-24T01:23:04.032Z - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle-2d,physics-2d-builtin,profiler,skeletal-animation,spine,tiled-map,tween,ui,video,webview)
+2022-08-24T01:23:04.046Z - verbose: [Engine] QuickCompile engine (751ms)
+2022-08-24T01:23:04.049Z - log: [Package] engine@1.0.6 enable
+2022-08-24T01:23:05.332Z - log: [Package] programming@1.0.0 enable
+2022-08-24T01:23:05.760Z - log: [Package] device@1.0.1 enable
+2022-08-24T01:23:05.794Z - log: [Package] ui-kit@1.0.1 enable
+2022-08-24T01:23:05.822Z - log: [Package] engine-extends@1.0.0 enable
+2022-08-24T01:23:05.895Z - log: [Package] asset-db@1.0.0 enable
+2022-08-24T01:23:05.936Z - log: [Package] scene@1.0.0 enable
+2022-08-24T01:23:06.088Z - log: [Package] server@1.0.0 enable
+2022-08-24T01:23:06.118Z - log: [Package] utils@1.0.0 enable
+2022-08-24T01:23:09.217Z - log: [Package] preview@1.0.1 enable
+2022-08-24T01:23:09.250Z - log: [Package] animator@1.0.0 enable
+2022-08-24T01:23:10.335Z - log: [Package] builder@1.3.2 enable
+2022-08-24T01:23:10.370Z - log: [Package] shortcuts@1.0.1 enable
+2022-08-24T01:23:10.414Z - log: [Package] animation-graph@1.0.0 enable
+2022-08-24T01:23:10.451Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-08-24T01:23:10.484Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-08-24T01:23:10.518Z - log: [Package] about@1.0.0 enable
+2022-08-24T01:23:10.558Z - log: [Package] assets@1.0.0 enable
+2022-08-24T01:23:10.604Z - log: [Package] console@1.0.0 enable
+2022-08-24T01:23:10.788Z - log: [Package] extension@3.0.16 enable
+2022-08-24T01:23:10.822Z - log: [Package] hierarchy@1.0.0 enable
+2022-08-24T01:23:10.870Z - log: [Package] inspector@1.0.0 enable
+2022-08-24T01:23:10.920Z - log: [Package] lightmap@1.0.4 enable
+2022-08-24T01:23:10.965Z - log: [Package] node-library@1.0.1 enable
+2022-08-24T01:23:11.000Z - log: [Package] package-asset@1.0.0 enable
+2022-08-24T01:23:11.042Z - log: [Package] process@1.0.0 enable
+2022-08-24T01:23:11.071Z - verbose: [AssetDB] Require engine code (1219ms)
+2022-08-24T01:23:11.088Z - log: [Package] reference-image@1.0.0 enable
+2022-08-24T01:23:11.124Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-08-24T01:23:11.157Z - log: [Package] android@1.0.0 enable
+2022-08-24T01:23:11.187Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-08-24T01:23:11.219Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-08-24T01:23:11.250Z - log: [Package] cocos-play@1.0.0 enable
+2022-08-24T01:23:11.282Z - log: [Package] huawei-agc@1.0.0 enable
+2022-08-24T01:23:11.313Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-08-24T01:23:11.350Z - log: [Package] ios@1.0.0 enable
+2022-08-24T01:23:11.376Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-08-24T01:23:11.407Z - log: [Package] link-sure@1.0.0 enable
+2022-08-24T01:23:11.440Z - log: [Package] linux@1.0.0 enable
+2022-08-24T01:23:11.471Z - log: [Package] mac@1.0.0 enable
+2022-08-24T01:23:11.580Z - log: [Package] native@1.0.0 enable
+2022-08-24T01:23:11.613Z - log: [Package] ohos@1.0.0 enable
+2022-08-24T01:23:11.645Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-08-24T01:23:11.678Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-08-24T01:23:11.709Z - log: [Package] qtt@1.0.0 enable
+2022-08-24T01:23:11.740Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-08-24T01:23:11.781Z - log: [Package] web-desktop@1.0.0 enable
+2022-08-24T01:23:11.838Z - log: [Package] web-mobile@1.0.0 enable
+2022-08-24T01:23:11.889Z - log: [Package] wechatgame@1.0.1 enable
+2022-08-24T01:23:11.915Z - log: [Package] windows@1.0.0 enable
+2022-08-24T01:23:11.945Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-08-24T01:23:12.299Z - log: [Package] cocos-service@3.0.3 enable
+2022-08-24T01:23:12.355Z - log: [Package] importer@1.0.0 enable
+2022-08-24T01:23:12.682Z - log: [Im-plugin] Check im-plugin version.
+2022-08-24T01:23:12.696Z - log: [Package] im-plugin@3.0.8 enable
+2022-08-24T01:23:13.266Z - log: [Im-plugin] No online info of im-plugin.
+2022-08-24T01:23:17.642Z - verbose: [Scene] Require engine code (0ms)
+2022-08-24T01:23:17.644Z - verbose: [Scene] Startup engine (1ms)
+2022-08-24T01:23:17.680Z - log: [Scene] Cocos Creator v3.5.2
+2022-08-24T01:23:18.268Z - verbose: [Scene] Open engine (624ms)
+2022-08-24T01:23:18.268Z - verbose: [Scene] Configure engine (0ms)
+2022-08-24T01:23:17.782Z - info: [Scene] Forward render pipeline initialized.
+2022-08-24T01:34:23.025Z - error: [Asset DB] Importer exec failed: {asset[C:\Users\zxq\Desktop\飞机大战\NewProject\assets\img\enemydie.psd@f9941](cc18681b-ff17-441f-9923-388ac5b91f4a@f9941)}[Asset DB] Importer exec failed: {asset[C:\Users\zxq\Desktop\飞机大战\NewProject\assets\img\enemydie.psd@f9941](cc18681b-ff17-441f-9923-388ac5b91f4a@f9941)}  
+at ImportTask.importVirtualAsset (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\asset-db\libs\task.ccc:1:3555)  
+at async ImportTask.exec (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\asset-db\libs\task.ccc:1:628)  
+at async ImportTask.exec (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\asset-db\libs\task.ccc:1:1001)  
+at async ParallelQueue._generate (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\asset-db\libs\asset-db.ccc:1:2165)
+2022-08-24T01:34:23.025Z - error: [Asset DB] Input file contains unsupported image formatError: Input file contains unsupported image format
+2022-08-24T01:36:06.668Z - error: [Scene] Rect width exceeds maximum margin: enemydie/ 51 41Error: [Scene] Rect width exceeds maximum margin: enemydie/ 51 41
+    at error (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:147108:10)
+    at errorID (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:147315:3)
+    at SpriteFrame.checkRect (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:56959:26)
+    at SpriteFrame._refreshTexture (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:57507:68)
+    at SpriteFrame.set _textureSource [as _textureSource] (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:56632:12)
+    at updateAsset (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\asset\asset-watcher.ccc:1:4588)
+    at D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\asset\asset-watcher.ccc:1:5692
+2022-08-24T01:41:38.594Z - error: [Programming] 无法加载模块 file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/assets/script/Enemy.ts ：SyntaxError: D:\CocosDashboard\file:\C:\Users\zxq\Desktop\%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98\NewProject\assets\script\Enemy.ts: Missing semicolon. (38:42)
+
+  36 |         resources.load("img/enemydie.png", SpriteFrame, (err, res) => {
+  37 |             this.node.getComponent(Sprite).spriteFrame = res;
+> 38 |             this.node.getComponent(Sprite)SpriteFrame = res
+     |                                           ^
+  39 |         })
+  40 |     }
+  41 | }.[Programming] 无法加载模块 file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/assets/script/Enemy.ts ：SyntaxError: D:\CocosDashboard\file:\C:\Users\zxq\Desktop\%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98\NewProject\assets\script\Enemy.ts: Missing semicolon. (38:42)
+
+  36 |         resources.load("img/enemydie.png", SpriteFrame, (err, res) => {
+  37 |             this.node.getComponent(Sprite).spriteFrame = res;
+> 38 |             this.node.getComponent(Sprite)SpriteFrame = res
+     |                                           ^
+  39 |         })
+  40 |     }
+  41 | }.  
+|                                           ^  
+39 |         })  
+40 |     }  
+41 | }.  
+at Object.encode (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.error (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)  
+at Object.error (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\programming\dist\packer-driver\packer-driver.ccc:1:14689)  
+at QuickPack._inspect (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:134:13)  
+at async D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:219:35  
+at async D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-common\lib\launch-policy.js:9:30
+2022-08-24T01:41:38.674Z - error: [Programming] 无法加载模块 file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/assets/script/Enemy.ts ：SyntaxError: D:\CocosDashboard\file:\C:\Users\zxq\Desktop\%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98\NewProject\assets\script\Enemy.ts: Missing semicolon. (38:42)
+
+  36 |         resources.load("img/enemydie.png", SpriteFrame, (err, res) => {
+  37 |             this.node.getComponent(Sprite).spriteFrame = res;
+> 38 |             this.node.getComponent(Sprite)SpriteFrame = res
+     |                                           ^
+  39 |         })
+  40 |     }
+  41 | }.[Programming] 无法加载模块 file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/assets/script/Enemy.ts ：SyntaxError: D:\CocosDashboard\file:\C:\Users\zxq\Desktop\%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98\NewProject\assets\script\Enemy.ts: Missing semicolon. (38:42)
+
+  36 |         resources.load("img/enemydie.png", SpriteFrame, (err, res) => {
+  37 |             this.node.getComponent(Sprite).spriteFrame = res;
+> 38 |             this.node.getComponent(Sprite)SpriteFrame = res
+     |                                           ^
+  39 |         })
+  40 |     }
+  41 | }.  
+|                                           ^  
+39 |         })  
+40 |     }  
+41 | }.  
+at Object.encode (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.error (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)  
+at Object.error (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\programming\dist\packer-driver\packer-driver.ccc:1:14689)  
+at QuickPack._inspect (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:134:13)  
+at async D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:219:35  
+at async D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-common\lib\launch-policy.js:9:30
+2022-08-24T01:41:38.665Z - error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: 无法从 pack:///chunks/e3/e3c697c683900c20f7cd2271822f8a0b06382a7c.js 解析出模块 __unresolved_1。
+    at ExecutorSystem._throwUnresolved (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\editor-systemjs\index.js:145:15)
+    at ExecutorSystem._resolve (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\editor-systemjs\index.js:94:21)
+    at SystemJS.resolve (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\editor-systemjs\index.js:28:23)
+    at D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:355:37
+    at Array.map (<anonymous>)
+    at D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:353:41
+    at async file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/temp/programming/packer-driver/targets/editor/chunks/8d/8dd0c11f9264beb4a10294224d354d9a00b12b33.js:13:13
+    at async Object.execute (file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/temp/programming/packer-driver/targets/editor/chunks/8d/8dd0c11f9264beb4a10294224d354d9a00b12b33.js:8:7)
+    at async Executor._importPrerequisiteModules (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:208:13)
+    at async Executor.reload (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:130:9)Error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: 无法从 pack:///chunks/e3/e3c697c683900c20f7cd2271822f8a0b06382a7c.js 解析出模块 __unresolved_1。
+    at D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:355:37
+    at Array.map (<anonymous>)
+    at D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:353:41
+    at async file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/temp/programming/packer-driver/targets/editor/chunks/8d/8dd0c11f9264beb4a10294224d354d9a00b12b33.js:13:13
+    at async Object.execute (file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/temp/programming/packer-driver/targets/editor/chunks/8d/8dd0c11f9264beb4a10294224d354d9a00b12b33.js:8:7)
+    at async Executor._importPrerequisiteModules (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:208:13)
+    at async Executor.reload (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:130:9)
+    at Logger._logHandler (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\startup\log.ccc:1:289)
+    at Logger.record (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)
+    at console.error (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)
+    at ScriptManager._handleImportException (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\scripts.ccc:1:5116)
+    at Executor.importExceptionHandler [as _importExceptionHandler] (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\scripts.ccc:1:3104)
+    at Executor._onModuleLoaded (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:253:22)
+    at SystemJS.onload (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\dist\executor\index.js:62:18)
+    at triggerOnload (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:270:10)
+    at D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\lib-programming\static\executor\systemjs-bridge\out\index.js:431:7
+    at async file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/temp/programming/packer-driver/targets/editor/chunks/8d/8dd0c11f9264beb4a10294224d354d9a00b12b33.js:13:13
+2022-08-24T01:41:38.674Z - warn: [Scene] Missing class: b8965qFnH1MPqO0RyxNe8AyError: [Scene] Missing class: b8965qFnH1MPqO0RyxNe8Ay
+    at Object.classFinder (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:92316:32)
+    at _Deserializer._deserializeTypeTaggedObject (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110240:24)
+    at _Deserializer._deserializeObject (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110181:23)
+    at _Deserializer._deserializeAndAssignField (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110390:32)
+    at _Deserializer._deserializeArray (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110215:34)
+    at _Deserializer._deserializeObject (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110187:23)
+2022-08-24T01:41:38.674Z - warn: [Scene] Missing class: 46a04qkFA1ByLoO1znaFsreError: [Scene] Missing class: 46a04qkFA1ByLoO1znaFsre
+    at Object.classFinder (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:92316:32)
+    at _Deserializer._deserializeTypeTaggedObject (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110240:24)
+    at _Deserializer._deserializeObject (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110181:23)
+    at _Deserializer._deserializeAndAssignField (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110390:32)
+    at _Deserializer._deserializeArray (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110215:34)
+    at _Deserializer._deserializeObject (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110187:23)
+2022-08-24T01:41:38.681Z - error: [Scene] Script "b8965qFnH1MPqO0RyxNe8Ay" attached to "Manger" is missing or invalid. Detailed information:
+Node path: "Canvas/Manger"
+Script UUID: "b8965a85-9c7d-4c3e-a3b4-472c4d7bc032"
+Class ID: "b8965qFnH1MPqO0RyxNe8Ay"
+Error: [Scene] Script "b8965qFnH1MPqO0RyxNe8Ay" attached to "Manger" is missing or invalid. Detailed information:
+Node path: "Canvas/Manger"
+Script UUID: "b8965a85-9c7d-4c3e-a3b4-472c4d7bc032"
+Class ID: "b8965qFnH1MPqO0RyxNe8Ay"
+
+    at report (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1187)
+    at reportByWalker (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1283)
+    at D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:306)
+    at doWalkProperties (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2143)
+2022-08-24T01:41:38.681Z - error: [Scene] Script "46a04qkFA1ByLoO1znaFsre" attached to "Manger" is missing or invalid. Detailed information:
+Node path: "Canvas/Manger"
+Script UUID: "46a04aa4-140d-41c8-ba0e-d739da16cade"
+Class ID: "46a04qkFA1ByLoO1znaFsre"
+Error: [Scene] Script "46a04qkFA1ByLoO1znaFsre" attached to "Manger" is missing or invalid. Detailed information:
+Node path: "Canvas/Manger"
+Script UUID: "46a04aa4-140d-41c8-ba0e-d739da16cade"
+Class ID: "46a04qkFA1ByLoO1znaFsre"
+
+    at report (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1187)
+    at reportByWalker (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1283)
+    at D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:306)
+    at doWalkProperties (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2143)
+2022-08-24T01:41:38.699Z - warn: [Scene] Missing class: 65ec9kSeTtHxL7cinn5PnTfError: [Scene] Missing class: 65ec9kSeTtHxL7cinn5PnTf
+    at Object.classFinder (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:92316:32)
+    at _Deserializer._deserializeTypeTaggedObject (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110240:24)
+    at _Deserializer._deserializeObject (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110181:23)
+    at _Deserializer._deserializeAndAssignField (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110390:32)
+    at _Deserializer._deserializeArray (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110215:34)
+    at _Deserializer._deserializeObject (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110187:23)
+2022-08-24T01:41:38.700Z - error: [Scene] Script "65ec9kSeTtHxL7cinn5PnTf" attached to "enemy" in prefab "enemy" is missing or invalid. Detailed information:
+Node path: "enemy"
+Asset url: "db://assets/Prefab/enemy"
+Script UUID: "65ec9912-793b-47c4-bedc-8a79f93e74df"
+Class ID: "65ec9kSeTtHxL7cinn5PnTf"
+Error: [Scene] Script "65ec9kSeTtHxL7cinn5PnTf" attached to "enemy" in prefab "enemy" is missing or invalid. Detailed information:
+Node path: "enemy"
+Asset url: "db://assets/Prefab/enemy"
+Script UUID: "65ec9912-793b-47c4-bedc-8a79f93e74df"
+Class ID: "65ec9kSeTtHxL7cinn5PnTf"
+
+    at report (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1187)
+    at reportByWalker (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1283)
+    at D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:306)
+    at doWalkProperties (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2143)
+2022-08-24T02:21:26.187Z - warn: Metrics: no valid info
+2022-08-24T03:24:39.866Z - log: [Package] menu@1.0.0 enable
+2022-08-24T03:24:40.074Z - log: [Package] profile@1.0.0 enable
+2022-08-24T03:24:40.303Z - log: [Package] project@1.0.2 enable
+2022-08-24T03:24:40.334Z - log: [Package] messages@1.0.0 enable
+2022-08-24T03:24:40.373Z - log: [Package] program@1.0.0 enable
+2022-08-24T03:24:40.450Z - log: [Package] tester@1.0.0 enable
+2022-08-24T03:24:40.522Z - log: [Package] preferences@1.0.0 enable
+2022-08-24T03:24:51.029Z - error: Client network socket disconnected before secure TLS connection was establishedError: Client network socket disconnected before secure TLS connection was established
+    at connResetException (internal/errors.js:607:14)
+    at TLSSocket.onConnectEnd (_tls_wrap.js:1544:19)
+    at TLSSocket.emit (events.js:327:22)
+    at endReadableNT (internal/streams/readable.js:1327:12)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+2022-08-24T03:24:52.513Z - log: Setup mods mgr.: 512.291ms
+2022-08-24T03:24:52.633Z - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle-2d,physics-2d-builtin,profiler,skeletal-animation,spine,tiled-map,tween,ui,video,webview)
+2022-08-24T03:24:52.641Z - verbose: [Engine] QuickCompile engine (9944ms)
+2022-08-24T03:24:52.644Z - log: [Package] engine@1.0.6 enable
+2022-08-24T03:24:53.751Z - log: [Package] programming@1.0.0 enable
+2022-08-24T03:24:56.725Z - log: [Package] device@1.0.1 enable
+2022-08-24T03:24:56.800Z - log: [Package] ui-kit@1.0.1 enable
+2022-08-24T03:24:57.043Z - log: [Package] engine-extends@1.0.0 enable
+2022-08-24T03:24:58.516Z - log: [Package] asset-db@1.0.0 enable
+2022-08-24T03:24:58.757Z - log: [Package] scene@1.0.0 enable
+2022-08-24T03:25:07.845Z - log: [Package] server@1.0.0 enable
+2022-08-24T03:25:09.053Z - log: [Package] utils@1.0.0 enable
+2022-08-24T03:25:43.297Z - log: [Package] preview@1.0.1 enable
+2022-08-24T03:25:43.331Z - log: [Package] animator@1.0.0 enable
+2022-08-24T03:25:44.533Z - log: [Package] builder@1.3.2 enable
+2022-08-24T03:25:44.665Z - log: [Package] shortcuts@1.0.1 enable
+2022-08-24T03:25:44.787Z - log: [Package] animation-graph@1.0.0 enable
+2022-08-24T03:25:44.834Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-08-24T03:25:44.863Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-08-24T03:25:44.943Z - log: [Package] about@1.0.0 enable
+2022-08-24T03:25:45.016Z - log: [Package] assets@1.0.0 enable
+2022-08-24T03:25:45.243Z - log: [Package] console@1.0.0 enable
+2022-08-24T03:25:46.247Z - log: [Package] extension@3.0.16 enable
+2022-08-24T03:25:46.311Z - log: [Package] hierarchy@1.0.0 enable
+2022-08-24T03:25:46.387Z - log: [Package] inspector@1.0.0 enable
+2022-08-24T03:25:46.443Z - log: [Package] lightmap@1.0.4 enable
+2022-08-24T03:25:46.496Z - log: [Package] node-library@1.0.1 enable
+2022-08-24T03:25:46.531Z - log: [Package] package-asset@1.0.0 enable
+2022-08-24T03:25:46.568Z - log: [Package] process@1.0.0 enable
+2022-08-24T03:25:46.618Z - log: [Package] reference-image@1.0.0 enable
+2022-08-24T03:25:46.651Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-08-24T03:25:46.703Z - log: [Package] android@1.0.0 enable
+2022-08-24T03:25:46.730Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-08-24T03:25:46.762Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-08-24T03:25:46.795Z - log: [Package] cocos-play@1.0.0 enable
+2022-08-24T03:25:46.826Z - log: [Package] huawei-agc@1.0.0 enable
+2022-08-24T03:25:46.858Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-08-24T03:25:46.950Z - log: [Package] ios@1.0.0 enable
+2022-08-24T03:25:46.984Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-08-24T03:25:47.028Z - log: [Package] link-sure@1.0.0 enable
+2022-08-24T03:25:47.064Z - log: [Package] linux@1.0.0 enable
+2022-08-24T03:25:47.106Z - log: [Package] mac@1.0.0 enable
+2022-08-24T03:25:48.235Z - log: [Package] native@1.0.0 enable
+2022-08-24T03:25:48.273Z - log: [Package] ohos@1.0.0 enable
+2022-08-24T03:25:48.313Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-08-24T03:25:48.372Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-08-24T03:25:48.411Z - log: [Package] qtt@1.0.0 enable
+2022-08-24T03:25:48.456Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-08-24T03:25:48.533Z - log: [Package] web-desktop@1.0.0 enable
+2022-08-24T03:25:48.720Z - log: [Package] web-mobile@1.0.0 enable
+2022-08-24T03:25:48.731Z - verbose: [AssetDB] Require engine code (4302ms)
+2022-08-24T03:25:48.786Z - log: [Package] wechatgame@1.0.1 enable
+2022-08-24T03:25:48.854Z - log: [Package] windows@1.0.0 enable
+2022-08-24T03:25:48.878Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-08-24T03:25:50.835Z - log: [Package] cocos-service@3.0.3 enable
+2022-08-24T03:25:51.188Z - log: [Package] importer@1.0.0 enable
+2022-08-24T03:25:53.794Z - log: [Im-plugin] Check im-plugin version.
+2022-08-24T03:25:53.837Z - log: [Package] im-plugin@3.0.8 enable
+2022-08-24T03:25:54.462Z - log: [Im-plugin] No online info of im-plugin.
+2022-08-24T03:26:02.933Z - verbose: [Scene] Require engine code (0ms)
+2022-08-24T03:26:02.934Z - verbose: [Scene] Startup engine (1ms)
+2022-08-24T03:26:03.265Z - log: [Scene] Cocos Creator v3.5.2
+2022-08-24T03:26:04.032Z - verbose: [Scene] Open engine (1097ms)
+2022-08-24T03:26:04.032Z - verbose: [Scene] Configure engine (0ms)
+2022-08-24T03:26:03.461Z - info: [Scene] Forward render pipeline initialized.
+2022-08-24T03:31:32.307Z - error: [Preview]Uncaught TypeError: The thing you want to instantiate is nil in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-08-24T03:31:56.211Z - error: [Preview]Uncaught TypeError: The thing you want to instantiate is nil in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-08-24T03:32:29.077Z - error: [Preview]Uncaught TypeError: The thing you want to instantiate is nil in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-08-24T03:34:11.800Z - error: [Preview]Uncaught TypeError: The thing you want to instantiate is nil in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-08-24T03:36:38.352Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'die') in http://localhost:7456/scripting/x/chunks/fd/fd99e0aa13f1802b0a14beca2a46cf81944cdd0e.js
+2022-08-24T03:37:09.152Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'die') in http://localhost:7456/scripting/x/chunks/65/650cd96fa17a125e31ed666bdaf92b902c96c4fc.js
+2022-08-24T03:37:42.666Z - error: [Preview]Uncaught TypeError: The thing you want to instantiate is nil in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-08-24T03:38:43.599Z - error: [Preview]Uncaught TypeError: The thing you want to instantiate is nil in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-08-24T03:38:48.316Z - warn: Metrics: no valid info
+2022-08-24T03:49:48.213Z - log: [Package] menu@1.0.0 enable
+2022-08-24T03:49:48.216Z - log: [Package] profile@1.0.0 enable
+2022-08-24T03:49:48.228Z - log: [Package] project@1.0.2 enable
+2022-08-24T03:49:48.236Z - log: [Package] messages@1.0.0 enable
+2022-08-24T03:49:48.241Z - log: [Package] program@1.0.0 enable
+2022-08-24T03:49:48.249Z - log: [Package] tester@1.0.0 enable
+2022-08-24T03:49:48.258Z - log: [Package] preferences@1.0.0 enable
+2022-08-24T03:49:49.365Z - log: Setup mods mgr.: 432.899ms
+2022-08-24T03:49:49.368Z - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle-2d,physics-2d-builtin,profiler,skeletal-animation,spine,tiled-map,tween,ui,video,webview)
+2022-08-24T03:49:49.383Z - verbose: [Engine] QuickCompile engine (982ms)
+2022-08-24T03:49:49.387Z - log: [Package] engine@1.0.6 enable
+2022-08-24T03:49:50.381Z - log: [Package] programming@1.0.0 enable
+2022-08-24T03:49:50.961Z - log: [Package] device@1.0.1 enable
+2022-08-24T03:49:50.996Z - log: [Package] ui-kit@1.0.1 enable
+2022-08-24T03:49:51.024Z - log: [Package] engine-extends@1.0.0 enable
+2022-08-24T03:49:51.197Z - log: [Package] asset-db@1.0.0 enable
+2022-08-24T03:49:51.239Z - log: [Package] scene@1.0.0 enable
+2022-08-24T03:49:51.583Z - log: [Package] server@1.0.0 enable
+2022-08-24T03:49:51.807Z - log: [Package] utils@1.0.0 enable
+2022-08-24T03:49:59.506Z - log: [Package] preview@1.0.1 enable
+2022-08-24T03:49:59.540Z - log: [Package] animator@1.0.0 enable
+2022-08-24T03:50:00.587Z - log: [Package] builder@1.3.2 enable
+2022-08-24T03:50:00.808Z - log: [Package] shortcuts@1.0.1 enable
+2022-08-24T03:50:00.855Z - log: [Package] animation-graph@1.0.0 enable
+2022-08-24T03:50:00.878Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-08-24T03:50:00.902Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-08-24T03:50:00.934Z - log: [Package] about@1.0.0 enable
+2022-08-24T03:50:00.979Z - log: [Package] assets@1.0.0 enable
+2022-08-24T03:50:01.014Z - log: [Package] console@1.0.0 enable
+2022-08-24T03:50:01.464Z - log: [Package] extension@3.0.16 enable
+2022-08-24T03:50:01.504Z - log: [Package] hierarchy@1.0.0 enable
+2022-08-24T03:50:01.541Z - log: [Package] inspector@1.0.0 enable
+2022-08-24T03:50:01.583Z - log: [Package] lightmap@1.0.4 enable
+2022-08-24T03:50:01.620Z - log: [Package] node-library@1.0.1 enable
+2022-08-24T03:50:01.643Z - log: [Package] package-asset@1.0.0 enable
+2022-08-24T03:50:01.680Z - log: [Package] process@1.0.0 enable
+2022-08-24T03:50:01.717Z - log: [Package] reference-image@1.0.0 enable
+2022-08-24T03:50:01.718Z - verbose: [AssetDB] Require engine code (1516ms)
+2022-08-24T03:50:01.751Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-08-24T03:50:01.805Z - log: [Package] android@1.0.0 enable
+2022-08-24T03:50:01.845Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-08-24T03:50:01.877Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-08-24T03:50:01.909Z - log: [Package] cocos-play@1.0.0 enable
+2022-08-24T03:50:01.940Z - log: [Package] huawei-agc@1.0.0 enable
+2022-08-24T03:50:01.975Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-08-24T03:50:02.022Z - log: [Package] ios@1.0.0 enable
+2022-08-24T03:50:02.049Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-08-24T03:50:02.095Z - log: [Package] link-sure@1.0.0 enable
+2022-08-24T03:50:02.126Z - log: [Package] linux@1.0.0 enable
+2022-08-24T03:50:02.173Z - log: [Package] mac@1.0.0 enable
+2022-08-24T03:50:02.839Z - log: [Package] native@1.0.0 enable
+2022-08-24T03:50:02.877Z - log: [Package] ohos@1.0.0 enable
+2022-08-24T03:50:02.907Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-08-24T03:50:02.940Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-08-24T03:50:02.970Z - log: [Package] qtt@1.0.0 enable
+2022-08-24T03:50:03.001Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-08-24T03:50:03.050Z - log: [Package] web-desktop@1.0.0 enable
+2022-08-24T03:50:03.098Z - log: [Package] web-mobile@1.0.0 enable
+2022-08-24T03:50:03.139Z - log: [Package] wechatgame@1.0.1 enable
+2022-08-24T03:50:03.164Z - log: [Package] windows@1.0.0 enable
+2022-08-24T03:50:03.206Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-08-24T03:50:03.787Z - log: [Package] cocos-service@3.0.3 enable
+2022-08-24T03:50:03.857Z - log: [Package] importer@1.0.0 enable
+2022-08-24T03:50:04.548Z - log: [Im-plugin] Check im-plugin version.
+2022-08-24T03:50:04.563Z - log: [Package] im-plugin@3.0.8 enable
+2022-08-24T03:50:05.090Z - log: [Im-plugin] No online info of im-plugin.
+2022-08-24T03:50:09.353Z - verbose: [Scene] Require engine code (0ms)
+2022-08-24T03:50:09.355Z - verbose: [Scene] Startup engine (1ms)
+2022-08-24T03:50:09.390Z - log: [Scene] Cocos Creator v3.5.2
+2022-08-24T03:50:09.990Z - verbose: [Scene] Open engine (635ms)
+2022-08-24T03:50:09.990Z - verbose: [Scene] Configure engine (0ms)
+2022-08-24T03:50:09.501Z - info: [Scene] Forward render pipeline initialized.
+2022-08-24T03:50:25.389Z - error: [Preview]Uncaught TypeError: The thing you want to instantiate is nil in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-08-24T03:51:18.326Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/1a/1aace4331a12f1c590e70a574355258b9d87537c.js
+2022-08-24T03:52:02.719Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'die') in http://localhost:7456/scripting/x/chunks/33/33bd3239b1de388013a02658d7e8dc7d479788a9.js
+2022-08-24T03:54:15.642Z - error: [Preview]Uncaught TypeError: The thing you want to instantiate is nil in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-08-24T03:56:55.018Z - error: [Preview]Uncaught TypeError: The thing you want to instantiate is nil in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-08-24T03:58:03.033Z - error: [Preview]Uncaught TypeError: The thing you want to instantiate is nil in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-08-24T03:59:11.844Z - error: [Preview]Uncaught TypeError: The thing you want to instantiate is nil in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-08-24T04:22:43.632Z - warn: Metrics: no valid info
+2022-08-24T07:40:33.279Z - log: [Package] menu@1.0.0 enable
+2022-08-24T07:40:33.283Z - log: [Package] profile@1.0.0 enable
+2022-08-24T07:40:33.294Z - log: [Package] project@1.0.2 enable
+2022-08-24T07:40:33.301Z - log: [Package] messages@1.0.0 enable
+2022-08-24T07:40:33.308Z - log: [Package] program@1.0.0 enable
+2022-08-24T07:40:33.316Z - log: [Package] tester@1.0.0 enable
+2022-08-24T07:40:33.324Z - log: [Package] preferences@1.0.0 enable
+2022-08-24T07:40:35.070Z - log: Setup mods mgr.: 479.259ms
+2022-08-24T07:40:35.080Z - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle-2d,physics-2d-builtin,profiler,skeletal-animation,spine,tiled-map,tween,ui,video,webview)
+2022-08-24T07:40:35.087Z - verbose: [Engine] QuickCompile engine (1598ms)
+2022-08-24T07:40:35.090Z - log: [Package] engine@1.0.6 enable
+2022-08-24T07:40:36.265Z - log: [Package] programming@1.0.0 enable
+2022-08-24T07:40:36.965Z - log: [Package] device@1.0.1 enable
+2022-08-24T07:40:37.000Z - log: [Package] ui-kit@1.0.1 enable
+2022-08-24T07:40:37.027Z - log: [Package] engine-extends@1.0.0 enable
+2022-08-24T07:40:37.147Z - log: [Package] asset-db@1.0.0 enable
+2022-08-24T07:40:37.192Z - log: [Package] scene@1.0.0 enable
+2022-08-24T07:40:37.597Z - log: [Package] server@1.0.0 enable
+2022-08-24T07:40:37.807Z - log: [Package] utils@1.0.0 enable
+2022-08-24T07:40:43.988Z - log: [Package] preview@1.0.1 enable
+2022-08-24T07:40:44.045Z - log: [Package] animator@1.0.0 enable
+2022-08-24T07:40:45.213Z - log: [Package] builder@1.3.2 enable
+2022-08-24T07:40:45.304Z - log: [Package] shortcuts@1.0.1 enable
+2022-08-24T07:40:45.384Z - log: [Package] animation-graph@1.0.0 enable
+2022-08-24T07:40:45.422Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-08-24T07:40:45.448Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-08-24T07:40:45.492Z - log: [Package] about@1.0.0 enable
+2022-08-24T07:40:45.566Z - log: [Package] assets@1.0.0 enable
+2022-08-24T07:40:45.640Z - log: [Package] console@1.0.0 enable
+2022-08-24T07:40:46.155Z - log: [Package] extension@3.0.16 enable
+2022-08-24T07:40:46.220Z - log: [Package] hierarchy@1.0.0 enable
+2022-08-24T07:40:46.263Z - log: [Package] inspector@1.0.0 enable
+2022-08-24T07:40:46.311Z - log: [Package] lightmap@1.0.4 enable
+2022-08-24T07:40:46.363Z - log: [Package] node-library@1.0.1 enable
+2022-08-24T07:40:46.390Z - log: [Package] package-asset@1.0.0 enable
+2022-08-24T07:40:46.436Z - log: [Package] process@1.0.0 enable
+2022-08-24T07:40:46.483Z - log: [Package] reference-image@1.0.0 enable
+2022-08-24T07:40:46.506Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-08-24T07:40:46.549Z - log: [Package] android@1.0.0 enable
+2022-08-24T07:40:46.578Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-08-24T07:40:46.609Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-08-24T07:40:46.641Z - log: [Package] cocos-play@1.0.0 enable
+2022-08-24T07:40:46.673Z - log: [Package] huawei-agc@1.0.0 enable
+2022-08-24T07:40:46.705Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-08-24T07:40:46.748Z - log: [Package] ios@1.0.0 enable
+2022-08-24T07:40:46.782Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-08-24T07:40:46.814Z - log: [Package] link-sure@1.0.0 enable
+2022-08-24T07:40:46.844Z - log: [Package] linux@1.0.0 enable
+2022-08-24T07:40:46.875Z - log: [Package] mac@1.0.0 enable
+2022-08-24T07:40:47.369Z - log: [Package] native@1.0.0 enable
+2022-08-24T07:40:47.407Z - log: [Package] ohos@1.0.0 enable
+2022-08-24T07:40:47.437Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-08-24T07:40:47.468Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-08-24T07:40:47.498Z - log: [Package] qtt@1.0.0 enable
+2022-08-24T07:40:47.538Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-08-24T07:40:47.602Z - log: [Package] web-desktop@1.0.0 enable
+2022-08-24T07:40:47.611Z - verbose: [AssetDB] Require engine code (2616ms)
+2022-08-24T07:40:47.659Z - log: [Package] web-mobile@1.0.0 enable
+2022-08-24T07:40:47.723Z - log: [Package] wechatgame@1.0.1 enable
+2022-08-24T07:40:47.751Z - log: [Package] windows@1.0.0 enable
+2022-08-24T07:40:47.782Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-08-24T07:40:48.764Z - log: [Package] cocos-service@3.0.3 enable
+2022-08-24T07:40:49.245Z - log: [Package] importer@1.0.0 enable
+2022-08-24T07:40:51.767Z - log: [Im-plugin] Check im-plugin version.
+2022-08-24T07:40:51.780Z - log: [Package] im-plugin@3.0.8 enable
+2022-08-24T07:40:52.497Z - log: [Im-plugin] No online info of im-plugin.
+2022-08-24T07:41:00.284Z - verbose: [Scene] Require engine code (2ms)
+2022-08-24T07:41:00.285Z - verbose: [Scene] Startup engine (1ms)
+2022-08-24T07:41:00.841Z - log: [Scene] Cocos Creator v3.5.2
+2022-08-24T07:41:01.540Z - verbose: [Scene] Open engine (1255ms)
+2022-08-24T07:41:01.541Z - verbose: [Scene] Configure engine (0ms)
+2022-08-24T07:41:00.952Z - info: [Scene] Forward render pipeline initialized.
+2022-08-24T08:24:53.085Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'playOneShot') in http://localhost:7456/scripting/x/chunks/a2/a2028f448a770f50f73fca52db01164f5924cc0b.js
+2022-08-24T09:07:38.000Z - warn: Metrics: no valid info
+2022-08-24T09:07:46.525Z - log: [Package] menu@1.0.0 enable
+2022-08-24T09:07:46.532Z - log: [Package] profile@1.0.0 enable
+2022-08-24T09:07:46.548Z - log: [Package] project@1.0.2 enable
+2022-08-24T09:07:46.569Z - log: [Package] messages@1.0.0 enable
+2022-08-24T09:07:46.577Z - log: [Package] program@1.0.0 enable
+2022-08-24T09:07:46.595Z - log: [Package] tester@1.0.0 enable
+2022-08-24T09:07:46.609Z - log: [Package] preferences@1.0.0 enable
+2022-08-24T09:07:47.662Z - log: Setup mods mgr.: 548.429ms
+2022-08-24T09:07:47.664Z - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle-2d,physics-2d-builtin,profiler,skeletal-animation,spine,tiled-map,tween,ui,video,webview)
+2022-08-24T09:07:47.684Z - verbose: [Engine] QuickCompile engine (983ms)
+2022-08-24T09:07:47.691Z - log: [Package] engine@1.0.6 enable
+2022-08-24T09:07:49.034Z - log: [Package] programming@1.0.0 enable
+2022-08-24T09:07:49.440Z - log: [Package] device@1.0.1 enable
+2022-08-24T09:07:49.475Z - log: [Package] ui-kit@1.0.1 enable
+2022-08-24T09:07:49.504Z - log: [Package] engine-extends@1.0.0 enable
+2022-08-24T09:07:49.566Z - log: [Package] asset-db@1.0.0 enable
+2022-08-24T09:07:49.613Z - log: [Package] scene@1.0.0 enable
+2022-08-24T09:07:49.764Z - log: [Package] server@1.0.0 enable
+2022-08-24T09:07:49.795Z - log: [Package] utils@1.0.0 enable
+2022-08-24T09:07:53.083Z - log: [Package] preview@1.0.1 enable
+2022-08-24T09:07:53.116Z - log: [Package] animator@1.0.0 enable
+2022-08-24T09:07:54.187Z - log: [Package] builder@1.3.2 enable
+2022-08-24T09:07:54.221Z - log: [Package] shortcuts@1.0.1 enable
+2022-08-24T09:07:54.263Z - log: [Package] animation-graph@1.0.0 enable
+2022-08-24T09:07:54.300Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-08-24T09:07:54.323Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-08-24T09:07:54.356Z - log: [Package] about@1.0.0 enable
+2022-08-24T09:07:54.406Z - log: [Package] assets@1.0.0 enable
+2022-08-24T09:07:54.452Z - log: [Package] console@1.0.0 enable
+2022-08-24T09:07:54.630Z - log: [Package] extension@3.0.16 enable
+2022-08-24T09:07:54.674Z - log: [Package] hierarchy@1.0.0 enable
+2022-08-24T09:07:54.722Z - log: [Package] inspector@1.0.0 enable
+2022-08-24T09:07:54.770Z - log: [Package] lightmap@1.0.4 enable
+2022-08-24T09:07:54.817Z - log: [Package] node-library@1.0.1 enable
+2022-08-24T09:07:54.851Z - log: [Package] package-asset@1.0.0 enable
+2022-08-24T09:07:54.888Z - log: [Package] process@1.0.0 enable
+2022-08-24T09:07:54.889Z - verbose: [AssetDB] Require engine code (1192ms)
+2022-08-24T09:07:54.924Z - log: [Package] reference-image@1.0.0 enable
+2022-08-24T09:07:54.947Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-08-24T09:07:54.972Z - log: [Package] android@1.0.0 enable
+2022-08-24T09:07:55.004Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-08-24T09:07:55.037Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-08-24T09:07:55.069Z - log: [Package] cocos-play@1.0.0 enable
+2022-08-24T09:07:55.100Z - log: [Package] huawei-agc@1.0.0 enable
+2022-08-24T09:07:55.130Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-08-24T09:07:55.163Z - log: [Package] ios@1.0.0 enable
+2022-08-24T09:07:55.192Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-08-24T09:07:55.223Z - log: [Package] link-sure@1.0.0 enable
+2022-08-24T09:07:55.253Z - log: [Package] linux@1.0.0 enable
+2022-08-24T09:07:55.286Z - log: [Package] mac@1.0.0 enable
+2022-08-24T09:07:55.390Z - log: [Package] native@1.0.0 enable
+2022-08-24T09:07:55.427Z - log: [Package] ohos@1.0.0 enable
+2022-08-24T09:07:55.456Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-08-24T09:07:55.487Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-08-24T09:07:55.519Z - log: [Package] qtt@1.0.0 enable
+2022-08-24T09:07:55.550Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-08-24T09:07:55.595Z - log: [Package] web-desktop@1.0.0 enable
+2022-08-24T09:07:55.645Z - log: [Package] web-mobile@1.0.0 enable
+2022-08-24T09:07:55.691Z - log: [Package] wechatgame@1.0.1 enable
+2022-08-24T09:07:55.724Z - log: [Package] windows@1.0.0 enable
+2022-08-24T09:07:55.756Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-08-24T09:07:55.997Z - log: [Package] cocos-service@3.0.3 enable
+2022-08-24T09:07:56.055Z - log: [Package] importer@1.0.0 enable
+2022-08-24T09:07:56.316Z - log: [Im-plugin] Check im-plugin version.
+2022-08-24T09:07:56.331Z - log: [Package] im-plugin@3.0.8 enable
+2022-08-24T09:07:57.118Z - log: [Im-plugin] No online info of im-plugin.
+2022-08-24T09:08:01.160Z - verbose: [Scene] Require engine code (1ms)
+2022-08-24T09:08:01.161Z - verbose: [Scene] Startup engine (1ms)
+2022-08-24T09:08:01.191Z - log: [Scene] Cocos Creator v3.5.2
+2022-08-24T09:08:01.784Z - verbose: [Scene] Open engine (623ms)
+2022-08-24T09:08:01.784Z - verbose: [Scene] Configure engine (0ms)
+2022-08-24T09:08:01.293Z - info: [Scene] Forward render pipeline initialized.
+2022-08-24T09:08:11.611Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getComponent') in http://localhost:7456/scripting/x/chunks/fe/fe926ab47bf8021a16cbd1ff98b733e3db690576.js
+2022-08-24T09:08:13.859Z - warn: Metrics: no valid info
+2022-08-24T09:08:52.825Z - log: [Package] menu@1.0.0 enable
+2022-08-24T09:08:52.829Z - log: [Package] profile@1.0.0 enable
+2022-08-24T09:08:52.846Z - log: [Package] project@1.0.2 enable
+2022-08-24T09:08:52.857Z - log: [Package] messages@1.0.0 enable
+2022-08-24T09:08:52.863Z - log: [Package] program@1.0.0 enable
+2022-08-24T09:08:52.880Z - log: [Package] tester@1.0.0 enable
+2022-08-24T09:08:52.892Z - log: [Package] preferences@1.0.0 enable
+2022-08-24T09:08:53.903Z - log: Setup mods mgr.: 450.693ms
+2022-08-24T09:08:53.906Z - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle-2d,physics-2d-builtin,profiler,skeletal-animation,spine,tiled-map,tween,ui,video,webview)
+2022-08-24T09:08:53.922Z - verbose: [Engine] QuickCompile engine (921ms)
+2022-08-24T09:08:53.926Z - log: [Package] engine@1.0.6 enable
+2022-08-24T09:08:55.729Z - log: [Package] programming@1.0.0 enable
+2022-08-24T09:08:56.298Z - log: [Package] device@1.0.1 enable
+2022-08-24T09:08:56.338Z - log: [Package] ui-kit@1.0.1 enable
+2022-08-24T09:08:56.377Z - log: [Package] engine-extends@1.0.0 enable
+2022-08-24T09:08:56.484Z - log: [Package] asset-db@1.0.0 enable
+2022-08-24T09:08:56.552Z - log: [Package] scene@1.0.0 enable
+2022-08-24T09:08:56.826Z - log: [Package] server@1.0.0 enable
+2022-08-24T09:08:56.827Z - warn: Server: Port 7456 is occupied
+2022-08-24T09:08:56.877Z - log: [Package] utils@1.0.0 enable
+2022-08-24T09:09:01.011Z - log: [Package] preview@1.0.1 enable
+2022-08-24T09:09:01.054Z - log: [Package] animator@1.0.0 enable
+2022-08-24T09:09:02.322Z - log: [Package] builder@1.3.2 enable
+2022-08-24T09:09:02.360Z - log: [Package] shortcuts@1.0.1 enable
+2022-08-24T09:09:02.405Z - log: [Package] animation-graph@1.0.0 enable
+2022-08-24T09:09:02.428Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-08-24T09:09:02.451Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-08-24T09:09:02.493Z - log: [Package] about@1.0.0 enable
+2022-08-24T09:09:02.542Z - log: [Package] assets@1.0.0 enable
+2022-08-24T09:09:02.589Z - log: [Package] console@1.0.0 enable
+2022-08-24T09:09:02.796Z - log: [Package] extension@3.0.16 enable
+2022-08-24T09:09:02.841Z - log: [Package] hierarchy@1.0.0 enable
+2022-08-24T09:09:02.889Z - log: [Package] inspector@1.0.0 enable
+2022-08-24T09:09:02.936Z - log: [Package] lightmap@1.0.4 enable
+2022-08-24T09:09:02.985Z - log: [Package] node-library@1.0.1 enable
+2022-08-24T09:09:03.018Z - log: [Package] package-asset@1.0.0 enable
+2022-08-24T09:09:03.063Z - log: [Package] process@1.0.0 enable
+2022-08-24T09:09:03.108Z - log: [Package] reference-image@1.0.0 enable
+2022-08-24T09:09:03.131Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-08-24T09:09:03.158Z - log: [Package] android@1.0.0 enable
+2022-08-24T09:09:03.171Z - verbose: [AssetDB] Require engine code (1411ms)
+2022-08-24T09:09:03.189Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-08-24T09:09:03.220Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-08-24T09:09:03.250Z - log: [Package] cocos-play@1.0.0 enable
+2022-08-24T09:09:03.283Z - log: [Package] huawei-agc@1.0.0 enable
+2022-08-24T09:09:03.313Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-08-24T09:09:03.348Z - log: [Package] ios@1.0.0 enable
+2022-08-24T09:09:03.376Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-08-24T09:09:03.408Z - log: [Package] link-sure@1.0.0 enable
+2022-08-24T09:09:03.439Z - log: [Package] linux@1.0.0 enable
+2022-08-24T09:09:03.472Z - log: [Package] mac@1.0.0 enable
+2022-08-24T09:09:03.609Z - log: [Package] native@1.0.0 enable
+2022-08-24T09:09:03.646Z - log: [Package] ohos@1.0.0 enable
+2022-08-24T09:09:03.677Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-08-24T09:09:03.706Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-08-24T09:09:03.738Z - log: [Package] qtt@1.0.0 enable
+2022-08-24T09:09:03.769Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-08-24T09:09:03.815Z - log: [Package] web-desktop@1.0.0 enable
+2022-08-24T09:09:03.862Z - log: [Package] web-mobile@1.0.0 enable
+2022-08-24T09:09:03.913Z - log: [Package] wechatgame@1.0.1 enable
+2022-08-24T09:09:03.944Z - log: [Package] windows@1.0.0 enable
+2022-08-24T09:09:03.974Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-08-24T09:09:04.266Z - log: [Package] cocos-service@3.0.3 enable
+2022-08-24T09:09:04.323Z - log: [Package] importer@1.0.0 enable
+2022-08-24T09:09:04.629Z - log: [Im-plugin] Check im-plugin version.
+2022-08-24T09:09:04.644Z - log: [Package] im-plugin@3.0.8 enable
+2022-08-24T09:09:05.343Z - log: [Im-plugin] No online info of im-plugin.
+2022-08-24T09:09:10.368Z - verbose: [Scene] Require engine code (0ms)
+2022-08-24T09:09:10.369Z - verbose: [Scene] Startup engine (0ms)
+2022-08-24T09:09:10.409Z - log: [Scene] Cocos Creator v3.5.2
+2022-08-24T09:09:11.069Z - verbose: [Scene] Open engine (701ms)
+2022-08-24T09:09:11.070Z - verbose: [Scene] Configure engine (0ms)
+2022-08-24T09:09:10.527Z - info: [Scene] Forward render pipeline initialized.
+2022-08-24T09:11:41.540Z - warn: Metrics: no valid info
+2022-08-25T23:39:56.869Z - log: [Package] menu@1.0.0 enable
+2022-08-25T23:39:56.891Z - log: [Package] profile@1.0.0 enable
+2022-08-25T23:39:56.932Z - log: [Package] project@1.0.2 enable
+2022-08-25T23:39:56.956Z - log: [Package] messages@1.0.0 enable
+2022-08-25T23:39:56.964Z - log: [Package] program@1.0.0 enable
+2022-08-25T23:39:56.992Z - log: [Package] tester@1.0.0 enable
+2022-08-25T23:39:57.025Z - log: [Package] preferences@1.0.0 enable
+2022-08-25T23:40:00.081Z - log: Setup mods mgr.: 510.413ms
+2022-08-25T23:40:00.083Z - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle-2d,physics-2d-builtin,profiler,skeletal-animation,spine,tiled-map,tween,ui,video,webview)
+2022-08-25T23:40:00.094Z - verbose: [Engine] QuickCompile engine (2739ms)
+2022-08-25T23:40:00.097Z - log: [Package] engine@1.0.6 enable
+2022-08-25T23:40:01.170Z - log: [Package] programming@1.0.0 enable
+2022-08-25T23:40:01.795Z - log: [Package] device@1.0.1 enable
+2022-08-25T23:40:01.830Z - log: [Package] ui-kit@1.0.1 enable
+2022-08-25T23:40:01.857Z - log: [Package] engine-extends@1.0.0 enable
+2022-08-25T23:40:01.960Z - log: [Package] asset-db@1.0.0 enable
+2022-08-25T23:40:02.020Z - log: [Package] scene@1.0.0 enable
+2022-08-25T23:40:02.489Z - log: [Package] server@1.0.0 enable
+2022-08-25T23:40:02.691Z - log: [Package] utils@1.0.0 enable
+2022-08-25T23:40:08.590Z - log: [Package] preview@1.0.1 enable
+2022-08-25T23:40:08.643Z - log: [Package] animator@1.0.0 enable
+2022-08-25T23:40:09.753Z - log: [Package] builder@1.3.2 enable
+2022-08-25T23:40:09.856Z - log: [Package] shortcuts@1.0.1 enable
+2022-08-25T23:40:09.939Z - log: [Package] animation-graph@1.0.0 enable
+2022-08-25T23:40:09.973Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-08-25T23:40:10.069Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-08-25T23:40:10.101Z - log: [Package] about@1.0.0 enable
+2022-08-25T23:40:10.149Z - log: [Package] assets@1.0.0 enable
+2022-08-25T23:40:10.183Z - log: [Package] console@1.0.0 enable
+2022-08-25T23:40:10.656Z - log: [Package] extension@3.0.16 enable
+2022-08-25T23:40:10.705Z - log: [Package] hierarchy@1.0.0 enable
+2022-08-25T23:40:10.756Z - log: [Package] inspector@1.0.0 enable
+2022-08-25T23:40:10.799Z - log: [Package] lightmap@1.0.4 enable
+2022-08-25T23:40:10.851Z - log: [Package] node-library@1.0.1 enable
+2022-08-25T23:40:10.871Z - verbose: [AssetDB] Require engine code (1557ms)
+2022-08-25T23:40:10.874Z - log: [Package] package-asset@1.0.0 enable
+2022-08-25T23:40:10.927Z - log: [Package] process@1.0.0 enable
+2022-08-25T23:40:11.046Z - log: [Package] reference-image@1.0.0 enable
+2022-08-25T23:40:11.071Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-08-25T23:40:11.141Z - log: [Package] android@1.0.0 enable
+2022-08-25T23:40:11.182Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-08-25T23:40:11.223Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-08-25T23:40:11.260Z - log: [Package] cocos-play@1.0.0 enable
+2022-08-25T23:40:11.291Z - log: [Package] huawei-agc@1.0.0 enable
+2022-08-25T23:40:11.339Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-08-25T23:40:11.420Z - log: [Package] ios@1.0.0 enable
+2022-08-25T23:40:11.448Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-08-25T23:40:11.480Z - log: [Package] link-sure@1.0.0 enable
+2022-08-25T23:40:11.512Z - log: [Package] linux@1.0.0 enable
+2022-08-25T23:40:11.573Z - log: [Package] mac@1.0.0 enable
+2022-08-25T23:40:12.652Z - log: [Package] native@1.0.0 enable
+2022-08-25T23:40:12.682Z - log: [Package] ohos@1.0.0 enable
+2022-08-25T23:40:12.716Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-08-25T23:40:12.787Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-08-25T23:40:12.840Z - log: [Package] qtt@1.0.0 enable
+2022-08-25T23:40:12.905Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-08-25T23:40:12.961Z - log: [Package] web-desktop@1.0.0 enable
+2022-08-25T23:40:13.008Z - log: [Package] web-mobile@1.0.0 enable
+2022-08-25T23:40:13.051Z - log: [Package] wechatgame@1.0.1 enable
+2022-08-25T23:40:13.075Z - log: [Package] windows@1.0.0 enable
+2022-08-25T23:40:13.102Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-08-25T23:40:13.795Z - log: [Package] cocos-service@3.0.3 enable
+2022-08-25T23:40:13.892Z - log: [Package] importer@1.0.0 enable
+2022-08-25T23:40:14.925Z - log: [Im-plugin] Check im-plugin version.
+2022-08-25T23:40:14.938Z - log: [Package] im-plugin@3.0.8 enable
+2022-08-25T23:40:16.423Z - log: [Im-plugin] No online info of im-plugin.
+2022-08-25T23:40:19.801Z - verbose: [Scene] Require engine code (0ms)
+2022-08-25T23:40:19.802Z - verbose: [Scene] Startup engine (1ms)
+2022-08-25T23:40:19.869Z - log: [Scene] Cocos Creator v3.5.2
+2022-08-25T23:40:20.572Z - verbose: [Scene] Open engine (770ms)
+2022-08-25T23:40:20.572Z - verbose: [Scene] Configure engine (0ms)
+2022-08-25T23:40:19.984Z - info: [Scene] Forward render pipeline initialized.
+2022-08-25T23:40:44.919Z - warn: Metrics: no valid info
+2022-08-26T09:29:38.703Z - warn: [Window] getaddrinfo ENOTFOUND creator-api.cocos.comError: getaddrinfo ENOTFOUND creator-api.cocos.com
+    at process.<anonymous> (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\node_modules\@editor\user\dist\platform\child.ccc:1:2278)
+    at process.emit (events.js:315:20)
+    at emit (internal/child_process.js:903:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+2022-08-26T09:29:40.818Z - log: [Package] menu@1.0.0 enable
+2022-08-26T09:29:40.822Z - log: [Package] profile@1.0.0 enable
+2022-08-26T09:29:40.834Z - log: [Package] project@1.0.2 enable
+2022-08-26T09:29:40.842Z - log: [Package] messages@1.0.0 enable
+2022-08-26T09:29:40.847Z - log: [Package] program@1.0.0 enable
+2022-08-26T09:29:40.855Z - log: [Package] tester@1.0.0 enable
+2022-08-26T09:29:40.863Z - log: [Package] preferences@1.0.0 enable
+2022-08-26T09:29:41.013Z - error: getaddrinfo ENOTFOUND logstorage.cocos.comError: getaddrinfo ENOTFOUND logstorage.cocos.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26)
+2022-08-26T09:29:42.610Z - log: Setup mods mgr.: 500.442ms
+2022-08-26T09:29:42.616Z - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle-2d,physics-2d-builtin,profiler,skeletal-animation,spine,tiled-map,tween,ui,video,webview)
+2022-08-26T09:29:42.623Z - verbose: [Engine] QuickCompile engine (1613ms)
+2022-08-26T09:29:42.626Z - log: [Package] engine@1.0.6 enable
+2022-08-26T09:29:43.795Z - log: [Package] programming@1.0.0 enable
+2022-08-26T09:29:44.401Z - log: [Package] device@1.0.1 enable
+2022-08-26T09:29:44.437Z - log: [Package] ui-kit@1.0.1 enable
+2022-08-26T09:29:44.464Z - log: [Package] engine-extends@1.0.0 enable
+2022-08-26T09:29:44.869Z - log: [Package] asset-db@1.0.0 enable
+2022-08-26T09:29:44.934Z - log: [Package] scene@1.0.0 enable
+2022-08-26T09:29:45.420Z - log: [Package] server@1.0.0 enable
+2022-08-26T09:29:45.669Z - log: [Package] utils@1.0.0 enable
+2022-08-26T09:29:58.416Z - log: [Package] preview@1.0.1 enable
+2022-08-26T09:29:58.495Z - log: [Package] animator@1.0.0 enable
+2022-08-26T09:29:59.757Z - log: [Package] builder@1.3.2 enable
+2022-08-26T09:29:59.935Z - log: [Package] shortcuts@1.0.1 enable
+2022-08-26T09:30:00.016Z - log: [Package] animation-graph@1.0.0 enable
+2022-08-26T09:30:00.048Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-08-26T09:30:00.114Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-08-26T09:30:00.156Z - log: [Package] about@1.0.0 enable
+2022-08-26T09:30:00.307Z - log: [Package] assets@1.0.0 enable
+2022-08-26T09:30:00.347Z - log: [Package] console@1.0.0 enable
+2022-08-26T09:30:02.057Z - log: [Package] extension@3.0.16 enable
+2022-08-26T09:30:02.177Z - log: [Package] hierarchy@1.0.0 enable
+2022-08-26T09:30:02.232Z - log: [Package] inspector@1.0.0 enable
+2022-08-26T09:30:02.268Z - log: [Package] lightmap@1.0.4 enable
+2022-08-26T09:30:02.310Z - log: [Package] node-library@1.0.1 enable
+2022-08-26T09:30:02.334Z - log: [Package] package-asset@1.0.0 enable
+2022-08-26T09:30:02.376Z - log: [Package] process@1.0.0 enable
+2022-08-26T09:30:02.416Z - log: [Package] reference-image@1.0.0 enable
+2022-08-26T09:30:02.439Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-08-26T09:30:02.515Z - log: [Package] android@1.0.0 enable
+2022-08-26T09:30:02.565Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-08-26T09:30:02.630Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-08-26T09:30:02.672Z - log: [Package] cocos-play@1.0.0 enable
+2022-08-26T09:30:02.760Z - log: [Package] huawei-agc@1.0.0 enable
+2022-08-26T09:30:02.807Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-08-26T09:30:02.913Z - log: [Package] ios@1.0.0 enable
+2022-08-26T09:30:02.946Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-08-26T09:30:02.988Z - log: [Package] link-sure@1.0.0 enable
+2022-08-26T09:30:03.038Z - log: [Package] linux@1.0.0 enable
+2022-08-26T09:30:03.074Z - log: [Package] mac@1.0.0 enable
+2022-08-26T09:30:05.575Z - log: [Package] native@1.0.0 enable
+2022-08-26T09:30:05.654Z - log: [Package] ohos@1.0.0 enable
+2022-08-26T09:30:05.726Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-08-26T09:30:05.753Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-08-26T09:30:05.794Z - log: [Package] qtt@1.0.0 enable
+2022-08-26T09:30:05.887Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-08-26T09:30:06.188Z - log: [Package] web-desktop@1.0.0 enable
+2022-08-26T09:30:06.205Z - verbose: [AssetDB] Require engine code (6028ms)
+2022-08-26T09:30:06.492Z - log: [Package] web-mobile@1.0.0 enable
+2022-08-26T09:30:06.798Z - log: [Package] wechatgame@1.0.1 enable
+2022-08-26T09:30:06.854Z - log: [Package] windows@1.0.0 enable
+2022-08-26T09:30:06.912Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-08-26T09:30:08.858Z - log: [Package] cocos-service@3.0.3 enable
+2022-08-26T09:30:08.963Z - log: [Package] importer@1.0.0 enable
+2022-08-26T09:30:11.124Z - log: [Im-plugin] Check im-plugin version.
+2022-08-26T09:30:11.252Z - log: [Package] im-plugin@3.0.8 enable
+2022-08-26T09:30:11.297Z - error: get session failed
+2022-08-26T09:30:11.297Z - error: {
+  err: Error: getaddrinfo ENOTFOUND creator-api.cocos.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'creator-api.cocos.com'
+  }
+}
+2022-08-26T09:30:11.300Z - error: getImSetting failed
+2022-08-26T09:30:11.300Z - log: [Im-plugin] No online info of im-plugin.
+2022-08-26T09:30:18.782Z - verbose: [Scene] Require engine code (0ms)
+2022-08-26T09:30:18.783Z - verbose: [Scene] Startup engine (1ms)
+2022-08-26T09:30:19.235Z - log: [Scene] Cocos Creator v3.5.2
+2022-08-26T09:30:20.039Z - verbose: [Scene] Open engine (1256ms)
+2022-08-26T09:30:20.040Z - verbose: [Scene] Configure engine (0ms)
+2022-08-26T09:30:19.375Z - info: [Scene] Forward render pipeline initialized.
+2022-08-26T09:34:36.634Z - error: [Preview]Uncaught TypeError: The thing you want to instantiate is nil in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2022-08-26T09:44:29.930Z - error: [Scene] asset undefined doesn't existError: [Scene] asset undefined doesn't exist
+    at NodeOperation.linkNodeWithPrefabAsset (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\prefab\node.ccc:1:17476)
+    at NodeOperation.createPrefabAssetFromNode (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\prefab\node.ccc:1:17165)
+2022-08-26T09:44:34.785Z - error: [Scene] asset undefined doesn't existError: [Scene] asset undefined doesn't exist
+    at NodeOperation.linkNodeWithPrefabAsset (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\prefab\node.ccc:1:17476)
+    at NodeOperation.createPrefabAssetFromNode (D:\CocosDashboard\resources\.editors\Creator\3.5.2\resources\app.asar\builtin\scene\dist\script\3d\manager\prefab\node.ccc:1:17165)
+2022-08-26T09:44:55.255Z - warn: 创建资源失败: 无法识别 URL 的 UUID 
+db://assets/Prefab/EnemyBullet.prefab
+2022-08-26T09:45:39.536Z - warn: 创建资源失败: 无法识别 URL 的 UUID 
+db://assets/Prefab/EnemyBullet.prefab
+2022-08-26T10:07:05.402Z - error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'position') in http://localhost:7456/scripting/x/chunks/b5/b53fabb24f34d52f46775a40a066ec65da98aab0.js
+2022-08-26T10:19:22.122Z - warn: Metrics: no valid info
+2022-08-26T10:19:34.998Z - log: [Package] menu@1.0.0 enable
+2022-08-26T10:19:35.001Z - log: [Package] profile@1.0.0 enable
+2022-08-26T10:19:35.025Z - log: [Package] project@1.0.2 enable
+2022-08-26T10:19:35.038Z - log: [Package] messages@1.0.0 enable
+2022-08-26T10:19:35.050Z - log: [Package] program@1.0.0 enable
+2022-08-26T10:19:35.068Z - log: [Package] tester@1.0.0 enable
+2022-08-26T10:19:35.082Z - log: [Package] preferences@1.0.0 enable
+2022-08-26T10:19:35.903Z - log: Setup mods mgr.: 393.623ms
+2022-08-26T10:19:35.905Z - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle-2d,physics-2d-builtin,profiler,skeletal-animation,spine,tiled-map,tween,ui,video,webview)
+2022-08-26T10:19:36.075Z - verbose: [Engine] QuickCompile engine (885ms)
+2022-08-26T10:19:36.079Z - log: [Package] engine@1.0.6 enable
+2022-08-26T10:19:37.481Z - log: [Package] programming@1.0.0 enable
+2022-08-26T10:19:37.900Z - log: [Package] device@1.0.1 enable
+2022-08-26T10:19:37.934Z - log: [Package] ui-kit@1.0.1 enable
+2022-08-26T10:19:37.963Z - log: [Package] engine-extends@1.0.0 enable
+2022-08-26T10:19:38.037Z - log: [Package] asset-db@1.0.0 enable
+2022-08-26T10:19:38.077Z - log: [Package] scene@1.0.0 enable
+2022-08-26T10:19:38.238Z - log: [Package] server@1.0.0 enable
+2022-08-26T10:19:38.270Z - log: [Package] utils@1.0.0 enable
+2022-08-26T10:19:41.536Z - log: [Package] preview@1.0.1 enable
+2022-08-26T10:19:41.571Z - log: [Package] animator@1.0.0 enable
+2022-08-26T10:19:42.799Z - log: [Package] builder@1.3.2 enable
+2022-08-26T10:19:42.836Z - log: [Package] shortcuts@1.0.1 enable
+2022-08-26T10:19:42.880Z - log: [Package] animation-graph@1.0.0 enable
+2022-08-26T10:19:42.903Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-08-26T10:19:42.926Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-08-26T10:19:42.973Z - log: [Package] about@1.0.0 enable
+2022-08-26T10:19:43.021Z - log: [Package] assets@1.0.0 enable
+2022-08-26T10:19:43.069Z - log: [Package] console@1.0.0 enable
+2022-08-26T10:19:43.283Z - log: [Package] extension@3.0.16 enable
+2022-08-26T10:19:43.323Z - log: [Package] hierarchy@1.0.0 enable
+2022-08-26T10:19:43.360Z - log: [Package] inspector@1.0.0 enable
+2022-08-26T10:19:43.413Z - log: [Package] lightmap@1.0.4 enable
+2022-08-26T10:19:43.460Z - log: [Package] node-library@1.0.1 enable
+2022-08-26T10:19:43.493Z - log: [Package] package-asset@1.0.0 enable
+2022-08-26T10:19:43.538Z - log: [Package] process@1.0.0 enable
+2022-08-26T10:19:43.539Z - verbose: [AssetDB] Require engine code (1275ms)
+2022-08-26T10:19:43.584Z - log: [Package] reference-image@1.0.0 enable
+2022-08-26T10:19:43.608Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-08-26T10:19:43.647Z - log: [Package] android@1.0.0 enable
+2022-08-26T10:19:43.678Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-08-26T10:19:43.709Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-08-26T10:19:43.740Z - log: [Package] cocos-play@1.0.0 enable
+2022-08-26T10:19:43.771Z - log: [Package] huawei-agc@1.0.0 enable
+2022-08-26T10:19:43.804Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-08-26T10:19:43.838Z - log: [Package] ios@1.0.0 enable
+2022-08-26T10:19:43.866Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-08-26T10:19:43.896Z - log: [Package] link-sure@1.0.0 enable
+2022-08-26T10:19:43.925Z - log: [Package] linux@1.0.0 enable
+2022-08-26T10:19:43.959Z - log: [Package] mac@1.0.0 enable
+2022-08-26T10:19:44.078Z - log: [Package] native@1.0.0 enable
+2022-08-26T10:19:44.117Z - log: [Package] ohos@1.0.0 enable
+2022-08-26T10:19:44.148Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-08-26T10:19:44.180Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-08-26T10:19:44.211Z - log: [Package] qtt@1.0.0 enable
+2022-08-26T10:19:44.242Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-08-26T10:19:44.291Z - log: [Package] web-desktop@1.0.0 enable
+2022-08-26T10:19:44.335Z - log: [Package] web-mobile@1.0.0 enable
+2022-08-26T10:19:44.377Z - log: [Package] wechatgame@1.0.1 enable
+2022-08-26T10:19:44.403Z - log: [Package] windows@1.0.0 enable
+2022-08-26T10:19:44.429Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-08-26T10:19:44.762Z - log: [Package] cocos-service@3.0.3 enable
+2022-08-26T10:19:44.834Z - log: [Package] importer@1.0.0 enable
+2022-08-26T10:19:45.268Z - log: [Im-plugin] Check im-plugin version.
+2022-08-26T10:19:45.294Z - log: [Package] im-plugin@3.0.8 enable
+2022-08-26T10:19:46.192Z - log: [Im-plugin] No online info of im-plugin.
+2022-08-26T10:19:50.513Z - verbose: [Scene] Require engine code (1ms)
+2022-08-26T10:19:50.514Z - verbose: [Scene] Startup engine (1ms)
+2022-08-26T10:19:50.552Z - log: [Scene] Cocos Creator v3.5.2
+2022-08-26T10:19:51.249Z - verbose: [Scene] Open engine (735ms)
+2022-08-26T10:19:51.250Z - verbose: [Scene] Configure engine (0ms)
+2022-08-26T10:19:50.690Z - info: [Scene] Forward render pipeline initialized.
+2022-08-26T10:19:57.412Z - warn: Metrics: no valid info

@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 18018.343799999973,
+      "mTimestamp": 12510.348399996758,
       "chunkId": "06905a76530cf57ee019d9d8bcfb507c2d037fd3",
       "imports": [
         {
@@ -493,8 +493,8 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 18086.63870000001,
-      "chunkId": "8dd0c11f9264beb4a10294224d354d9a00b12b33",
+      "mTimestamp": 12603.135800004005,
+      "chunkId": "9cf229abfa71884e036c6807b179e78ad5c3b870",
       "imports": [
         {
           "value": "file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/assets/script/Begin.ts",
@@ -595,7 +595,7 @@
           }
         },
         {
-          "value": "file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/assets/script/GameManger.ts",
+          "value": "file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/assets/script/Enemydie.ts",
           "resolved": "__unresolved_7",
           "loc": {
             "start": {
@@ -604,63 +604,77 @@
             },
             "end": {
               "line": 5,
-              "column": 981
+              "column": 979
+            }
+          }
+        },
+        {
+          "value": "file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/assets/script/GameManger.ts",
+          "resolved": "__unresolved_8",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 995
+            },
+            "end": {
+              "line": 5,
+              "column": 1101
             }
           }
         },
         {
           "value": "file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/assets/script/Missile.ts",
-          "resolved": "__unresolved_8",
+          "resolved": "__unresolved_9",
           "loc": {
             "start": {
               "line": 5,
-              "column": 997
+              "column": 1117
             },
             "end": {
               "line": 5,
-              "column": 1100
+              "column": 1220
             }
           }
         },
         {
           "value": "file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/assets/script/Player.ts",
-          "resolved": "__unresolved_9",
+          "resolved": "__unresolved_10",
           "loc": {
             "start": {
               "line": 5,
-              "column": 1116
+              "column": 1236
             },
             "end": {
               "line": 5,
-              "column": 1218
+              "column": 1338
             }
           }
         },
         {
           "value": "file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/assets/script/PlayerBullet.ts",
-          "resolved": "__unresolved_10",
+          "resolved": "__unresolved_11",
           "loc": {
             "start": {
               "line": 5,
-              "column": 1234
+              "column": 1354
             },
             "end": {
               "line": 5,
-              "column": 1342
+              "column": 1462
             }
           }
         },
         {
           "value": "file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/assets/script/Shield.ts",
-          "resolved": "__unresolved_11",
+          "resolved": "__unresolved_12",
           "loc": {
             "start": {
               "line": 5,
-              "column": 1358
+              "column": 1478
             },
             "end": {
               "line": 5,
-              "column": 1460
+              "column": 1580
             }
           }
         }
@@ -713,6 +727,13 @@
           "resolved": {
             "type": "module",
             "url": "file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/assets/script/EnemyBullet1.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/assets/script/Enemydie.ts"
           },
           "messages": []
         },
@@ -1080,7 +1101,7 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1660954047450,
+      "mTimestamp": 1661509176298,
       "chunkId": "84741ad843cea9a440c5d8c2d379669b6551400d",
       "imports": [],
       "type": "esm",
@@ -1130,11 +1151,15 @@
     },
     "file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/assets/script/Enemy.ts": {
       "mTimestamp": {
-        "mtime": 1660876831338.7937,
+        "mtime": 1661508627227.0332,
         "uuid": "65ec9912-793b-47c4-bedc-8a79f93e74df"
       },
-      "chunkId": "41c47243b16841487130d94cb53bcfc143e6b818",
+      "chunkId": "2574fe9df6668bd0f214d50beff73cd0f5aa243d",
       "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
         {
           "value": "cc"
         },
@@ -1150,10 +1175,31 @@
               "column": 63
             }
           }
+        },
+        {
+          "value": "./Enemydie",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 25
+            },
+            "end": {
+              "line": 2,
+              "column": 37
+            }
+          }
         }
       ],
       "type": "esm",
       "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
         {
           "resolved": {
             "type": "module",
@@ -1165,6 +1211,13 @@
           "resolved": {
             "type": "module",
             "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/assets/script/Enemydie.ts"
           },
           "messages": []
         }
@@ -1214,10 +1267,10 @@
     },
     "file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/assets/script/PlayerBullet.ts": {
       "mTimestamp": {
-        "mtime": 1660733152447.6501,
+        "mtime": 1661509139304.6326,
         "uuid": "64199437-ad89-4d67-bfb6-6f2e9f332539"
       },
-      "chunkId": "3e2925e8a2c337620d8765934899c4fd84b3964a",
+      "chunkId": "1e309da40279ed5ef85ce0cb01f42519ba458538",
       "imports": [
         {
           "value": "cc"
@@ -1256,10 +1309,10 @@
     },
     "file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/assets/script/EnemyBullet.ts": {
       "mTimestamp": {
-        "mtime": 1660880520060.1733,
+        "mtime": 1661508654245.3977,
         "uuid": "5132c83e-a957-4398-a032-e2acfb112601"
       },
-      "chunkId": "ce5dec20711d546465bc72fcda99ebbefc1f0f79",
+      "chunkId": "045e2e7a745de1e0df5b1ff006aa9fdd930df628",
       "imports": [
         {
           "value": "cc"
@@ -1382,10 +1435,10 @@
     },
     "file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/assets/script/Collider.ts": {
       "mTimestamp": {
-        "mtime": 1660880384226.7578,
+        "mtime": 1661509040867.6592,
         "uuid": "46a04aa4-140d-41c8-ba0e-d739da16cade"
       },
-      "chunkId": "e3c697c683900c20f7cd2271822f8a0b06382a7c",
+      "chunkId": "d6c1114b5eb446694f6564a1278bd45b216e1783",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",
@@ -2090,10 +2143,10 @@
     },
     "file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/assets/script/Begin.ts": {
       "mTimestamp": {
-        "mtime": 1660733078277.9102,
+        "mtime": 1661328174471.4844,
         "uuid": "82795144-d434-4e42-a716-6b5e98170181"
       },
-      "chunkId": "a9bdaf58f247473bf1f2521ec1319bbd3fd8491b",
+      "chunkId": "ce71d4c1951ad04ef667768a4eceb9877364b4e0",
       "imports": [
         {
           "value": "cc"
@@ -2103,11 +2156,11 @@
           "loc": {
             "start": {
               "line": 1,
-              "column": 48
+              "column": 61
             },
             "end": {
               "line": 1,
-              "column": 52
+              "column": 65
             }
           }
         }
@@ -2258,10 +2311,10 @@
     },
     "file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/assets/script/EnemyBullet1.ts": {
       "mTimestamp": {
-        "mtime": 1660877279680.4668,
+        "mtime": 1661508815442.0955,
         "uuid": "7afd7714-ba9f-44c3-b4c6-ea8a0283071a"
       },
-      "chunkId": "fbc5143d6f9a5e0799c0ef377fbe29fec6766656",
+      "chunkId": "9381713a6c35301ef4ff08ef7d8836b263d0ba2e",
       "imports": [
         {
           "value": "cc"
@@ -2271,11 +2324,11 @@
           "loc": {
             "start": {
               "line": 1,
-              "column": 44
+              "column": 48
             },
             "end": {
               "line": 1,
-              "column": 48
+              "column": 52
             }
           }
         }
@@ -2300,10 +2353,126 @@
     },
     "file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/assets/script/Enemy1.ts": {
       "mTimestamp": {
-        "mtime": 1660877299461.7007,
+        "mtime": 1661508616752.6543,
         "uuid": "eee1de6d-fcb6-4a31-9be8-f3d96f6130ef"
       },
-      "chunkId": "f51a55796a86894aa4ccdd44a7806c6b554566ca",
+      "chunkId": "f21f8af287c37d9929e0ca90a9aa562a110ac0c2",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 78
+            },
+            "end": {
+              "line": 1,
+              "column": 82
+            }
+          }
+        },
+        {
+          "value": "./Enemydie",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 25
+            },
+            "end": {
+              "line": 2,
+              "column": 37
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/assets/script/Enemydie.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/assets/script/Audio.ts": {
+      "mTimestamp": {
+        "mtime": 1661301214288.6936,
+        "uuid": "1c846d6f-556e-4a99-9a80-e8831e8ebbbf"
+      },
+      "chunkId": "a68ec8539e913667eaf8d6142178c12e5dd46b7f",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 57
+            },
+            "end": {
+              "line": 1,
+              "column": 61
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/assets/script/BulletAudio.ts": {
+      "mTimestamp": {
+        "mtime": 1661303123629.5808,
+        "uuid": "ec5df2e6-25b9-4704-8aae-37ef17085a5a"
+      },
+      "chunkId": "1d20593e25cda0c101aeb795de7af6818b8ca9fb",
       "imports": [
         {
           "value": "cc"
@@ -2318,6 +2487,48 @@
             "end": {
               "line": 1,
               "column": 69
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/Users/zxq/Desktop/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98/NewProject/assets/script/Enemydie.ts": {
+      "mTimestamp": {
+        "mtime": 1661506362807.4167,
+        "uuid": "35efbba4-f3a5-4100-8917-ce9e278b7716"
+      },
+      "chunkId": "a8c4240df4242e9b0656441bf9a5dbb39e41a812",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 57
+            },
+            "end": {
+              "line": 1,
+              "column": 61
             }
           }
         }

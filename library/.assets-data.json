@@ -248,11 +248,71 @@
     "value": {}
   },
   "f5e8b448-b5e2-442c-b91e-2248a625cce1": {
-    "url": "db://assets/Prefab/enemybullet1.prefab",
+    "url": "db://assets/Prefab/enemybullet2.prefab",
     "value": {}
   },
   "bded8f1b-a109-4582-8ee9-238f1e1d08c6": {
     "url": "db://assets/Prefab/enemy1.prefab",
+    "value": {}
+  },
+  "fea097c4-e375-4c35-bbd6-55252997ae6c": {
+    "url": "db://assets/audio",
+    "value": {}
+  },
+  "37e23616-7b18-4b67-9f2c-414b3b2a71c4": {
+    "url": "db://assets/audio/SupperBullet.wav",
+    "value": {}
+  },
+  "71d46252-8623-45e7-b226-3a0b019dac32": {
+    "url": "db://assets/audio/bullet.wav",
+    "value": {}
+  },
+  "1c846d6f-556e-4a99-9a80-e8831e8ebbbf": {
+    "url": "db://assets/script/Audio.ts",
+    "value": {}
+  },
+  "ec5df2e6-25b9-4704-8aae-37ef17085a5a": {
+    "url": "db://assets/script/BulletAudio.ts",
+    "value": {}
+  },
+  "b48f90ba-5832-4703-8ac3-0d429646142a": {
+    "url": "db://assets/img/enemydie.png",
+    "value": {}
+  },
+  "cc18681b-ff17-441f-9923-388ac5b91f4a": {
+    "url": "db://assets/img/enemydie.psd",
+    "value": {}
+  },
+  "3f5653be-801d-491a-a13b-4853684e7ee9": {
+    "url": "db://assets/Prefab/enemydie.prefab",
+    "value": {}
+  },
+  "f02248c0-2a4d-407e-81ee-c8b0fb34c821": {
+    "url": "db://assets/script/Enemydie.ts",
+    "value": {}
+  },
+  "35efbba4-f3a5-4100-8917-ce9e278b7716": {
+    "url": "db://assets/script/Enemydie.ts",
+    "value": {}
+  },
+  "449e4b19-f564-40e9-94be-61ee49dc1b06": {
+    "url": "db://assets/audio/BGM-In Combat.wav",
+    "value": {}
+  },
+  "53769b41-ab08-4378-8a98-6ef5da0bd169": {
+    "url": "db://assets/audio/begin.wav",
+    "value": {}
+  },
+  "6311e8de-c990-422c-b052-2df8bec7ab2b": {
+    "url": "db://assets/audio/Fly_die.wav",
+    "value": {}
+  },
+  "c9ead525-1832-48ea-aa48-ce73cd8e0eea": {
+    "url": "db://assets/img/EnemyBullet.png",
+    "value": {}
+  },
+  "667ccdd6-6052-4598-86be-420babe5aa8f": {
+    "url": "db://assets/Prefab/enemybullet1.prefab",
     "value": {}
   }
 }

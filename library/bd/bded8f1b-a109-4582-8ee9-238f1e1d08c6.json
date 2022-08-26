@@ -148,15 +148,19 @@
       "__id__": 7
     },
     "enemybullerPre1": {
-      "__uuid__": "f5e8b448-b5e2-442c-b91e-2248a625cce1",
+      "__uuid__": "667ccdd6-6052-4598-86be-420babe5aa8f",
       "__expectedType__": "cc.Prefab"
     },
-    "speed": 125,
+    "enemydiePre": {
+      "__uuid__": "3f5653be-801d-491a-a13b-4853684e7ee9",
+      "__expectedType__": "cc.Prefab"
+    },
+    "speed": 150,
     "_id": ""
   },
   {
     "__type__": "cc.CompPrefabInfo",
-    "fileId": "f0no+71jxGR4UHucA6hUt7"
+    "fileId": "d7jN4xj/5OhZRMS8Ue1/mC"
   },
   {
     "__type__": "cc.BoxCollider2D",

@@ -28,15 +28,20 @@ export class Collider extends Component {
         if ((selfCollider.tag == 1 && otherCollider.tag == 2) || (selfCollider.tag == 2 && otherCollider.tag == 1)) {
             if (selfCollider.tag == 1) {
                 selfCollider.getComponent(PlayerBullet).die();
-                otherCollider.getComponent(Enemy).die();
+                otherCollider.getComponent(Enemy).diemusic();
             }
             if (selfCollider.tag == 2) {
-                selfCollider.getComponent(Enemy).die();
+                selfCollider.getComponent(Enemy).diemusic();
                 otherCollider.getComponent(PlayerBullet).die();
             }
             this.setScore();
         }
         if ((selfCollider.tag == 1 && otherCollider.tag == 6) || (selfCollider.tag == 6 && otherCollider.tag == 1)) {
+            if (this.count == 3) {
+                this.node.parent.getChildByName("enemy1").getComponent(Enemy1).diemusic();
+                this.node.getComponent(GameManger).randoms();
+                this.count = 0;
+            }
             if (selfCollider.tag == 1) {
                 selfCollider.getComponent(PlayerBullet).die();
                 this.count++;
@@ -45,21 +50,16 @@ export class Collider extends Component {
                 this.count++;
                 otherCollider.getComponent(PlayerBullet).die();
             }
-            if (this.count == 3) {
-                this.node.parent.getChildByName("enemy1").getComponent(Enemy1).die();
-                this.node.getComponent(GameManger).randoms();
-                this.count = 1;
-            }
             this.setScore();
         }
         //导弹
         if ((selfCollider.tag == 2 && otherCollider.tag == 4) || (selfCollider.tag == 4 && otherCollider.tag == 2)) {
             if (selfCollider.tag == 4) {
                 selfCollider.getComponent(Missile).die();
-                otherCollider.getComponent(Enemy).die();
+                otherCollider.getComponent(Enemy).diemusic();
             }
             if (selfCollider.tag == 2) {
-                selfCollider.getComponent(Enemy).die();
+                selfCollider.getComponent(Enemy).diemusic();
                 otherCollider.getComponent(Missile).die();
             }
             this.setScore();
@@ -67,11 +67,11 @@ export class Collider extends Component {
         if ((selfCollider.tag == 4 && otherCollider.tag == 6) || (selfCollider.tag == 6 && otherCollider.tag == 4)) {
             if (selfCollider.tag == 4) {
                 selfCollider.getComponent(Missile).die();
-                otherCollider.getComponent(Enemy1).die();
+                otherCollider.getComponent(Enemy1).diemusic();
 
             }
             if (selfCollider.tag == 6) {
-                selfCollider.getComponent(Enemy1).die();
+                selfCollider.getComponent(Enemy1).diemusic();
                 otherCollider.getComponent(Missile).die();
             }
             this.setScore();

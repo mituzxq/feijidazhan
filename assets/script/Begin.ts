@@ -1,4 +1,4 @@
-import { _decorator, Component, director } from 'cc';
+import { _decorator, Component, director, AudioSource } from 'cc';
 const { ccclass } = _decorator;
 
 @ccclass('Begin')
@@ -11,6 +11,7 @@ export class Begin extends Component {
 
     }
     game() {
+        this.node.getComponent(AudioSource).play();
         this.schedule(() => {
             director.loadScene("Main");
         }, 0.5)

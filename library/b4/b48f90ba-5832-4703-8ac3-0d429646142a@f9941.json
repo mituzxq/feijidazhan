@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "enemydie",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 41,
+      "height": 28
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 41,
+      "height": 28
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "b48f90ba-5832-4703-8ac3-0d429646142a@6c48a",
+    "packable": true
+  }
+}

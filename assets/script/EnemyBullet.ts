@@ -14,7 +14,7 @@ export class EnemyBullet extends Component {
         let bulletY = this.node.position.y;
         bulletY -= this.speed * deltaTime;
         this.node.setPosition(this.node.position.x, bulletY, 0);
-        if (bulletY < -300) {
+        if (bulletY < -320) {
             this.die();
         }
     }

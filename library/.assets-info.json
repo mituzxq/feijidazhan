@@ -3,7 +3,7 @@
     "time": 1660007904477.7131
   },
   "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\img": {
-    "time": 1660875554106.8057,
+    "time": 1661506836703.8777,
     "uuid": "6cdbc1dd-23bd-4d6a-8a6d-bdbee794a01f",
     "missing": false
   },
@@ -11,7 +11,7 @@
     "time": 1660007914397.4717
   },
   "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\script": {
-    "time": 1660877923869.669,
+    "time": 1661312084358.4934,
     "uuid": "fe4a5635-c4ad-494a-afc3-59f0fff3b439",
     "missing": false
   },
@@ -19,7 +19,7 @@
     "time": 1660007934844.5754
   },
   "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\Prefab": {
-    "time": 1660878759594.0442,
+    "time": 1661508885603.4165,
     "uuid": "1ae9cd0e-b06f-4c42-9dce-2b4d6583418d",
     "missing": false
   },
@@ -35,7 +35,7 @@
     "time": 1660007991670.1863
   },
   "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\scene\\Main.scene": {
-    "time": 1660880488104.4958,
+    "time": 1661509196406.469,
     "uuid": "e96a15f9-d055-4f22-8dbb-6d7b81d8e80d",
     "missing": false
   },
@@ -99,7 +99,7 @@
     "time": 1659238831000
   },
   "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\script\\Enemy.ts": {
-    "time": 1660876831338.7937,
+    "time": 1661508627227.0332,
     "uuid": "65ec9912-793b-47c4-bedc-8a79f93e74df",
     "missing": false
   },
@@ -107,7 +107,7 @@
     "time": 1660014268157.8223
   },
   "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\Prefab\\enemy.prefab": {
-    "time": 1660295794278.7124,
+    "time": 1661331543689.785,
     "uuid": "cbf30ffb-890d-41aa-93b5-9c573902f878",
     "missing": false
   },
@@ -123,7 +123,7 @@
     "time": 1659234079000
   },
   "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\script\\PlayerBullet.ts": {
-    "time": 1660733152447.6501,
+    "time": 1661509139304.6326,
     "uuid": "64199437-ad89-4d67-bfb6-6f2e9f332539",
     "missing": false
   },
@@ -131,7 +131,7 @@
     "time": 1660177471941.5515
   },
   "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\script\\EnemyBullet.ts": {
-    "time": 1660880520060.1733,
+    "time": 1661508654245.3977,
     "uuid": "5132c83e-a957-4398-a032-e2acfb112601",
     "missing": false
   },
@@ -139,7 +139,7 @@
     "time": 1660177667329.9993
   },
   "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\Prefab\\playerbullet.prefab": {
-    "time": 1660382580510.8132,
+    "time": 1661328304992.0764,
     "uuid": "58a78dca-0804-4410-8ab0-1de1e2643012",
     "missing": false
   },
@@ -147,7 +147,7 @@
     "time": 1660177806314.909
   },
   "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\Prefab\\enemybullet.prefab": {
-    "time": 1660383374532.868,
+    "time": 1661301280251.5525,
     "uuid": "852977b2-18ce-40c9-9f90-4036dc83fae3",
     "missing": false
   },
@@ -155,7 +155,7 @@
     "time": 1660296425875.8154
   },
   "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\script\\Collider.ts": {
-    "time": 1660880384226.7578,
+    "time": 1661509040867.6592,
     "uuid": "46a04aa4-140d-41c8-ba0e-d739da16cade",
     "missing": false
   },
@@ -179,7 +179,7 @@
     "time": 1660638543962.7827
   },
   "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\Prefab\\missile.prefab": {
-    "time": 1660707616818.2014,
+    "time": 1661303445528.2732,
     "uuid": "33bb6bc9-a49a-4cb2-ac5e-20732aeb32fe",
     "missing": false
   },
@@ -219,7 +219,7 @@
     "time": 1660712525730.616
   },
   "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\scene\\Begin.scene": {
-    "time": 1660712761075.3943,
+    "time": 1661328381162.2708,
     "uuid": "ce942167-6fc8-41de-a323-45e43882972d",
     "missing": false
   },
@@ -227,7 +227,7 @@
     "time": 1660712753891.594
   },
   "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\script\\Begin.ts": {
-    "time": 1660733078277.9102,
+    "time": 1661328174471.4844,
     "uuid": "82795144-d434-4e42-a716-6b5e98170181",
     "missing": false
   },
@@ -243,7 +243,7 @@
     "time": 1660876801486.377
   },
   "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\script\\Enemy1.ts": {
-    "time": 1660877299461.7007,
+    "time": 1661508616752.6543,
     "uuid": "eee1de6d-fcb6-4a31-9be8-f3d96f6130ef",
     "missing": false
   },
@@ -251,24 +251,104 @@
     "time": 1660876988347.552
   },
   "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\script\\EnemyBullet1.ts": {
-    "time": 1660877279680.4668,
+    "time": 1661508815442.0955,
     "uuid": "7afd7714-ba9f-44c3-b4c6-ea8a0283071a",
-    "missing": false
-  },
-  "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\Prefab\\enemybullet1.prefab.meta": {
-    "time": 1660877106471.354
-  },
-  "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\Prefab\\enemybullet1.prefab": {
-    "time": 1660878516664.954,
-    "uuid": "f5e8b448-b5e2-442c-b91e-2248a625cce1",
     "missing": false
   },
   "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\Prefab\\enemy1.prefab.meta": {
     "time": 1660877352333.2078
   },
   "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\Prefab\\enemy1.prefab": {
-    "time": 1660878519428.0078,
+    "time": 1661507301276.8074,
     "uuid": "bded8f1b-a109-4582-8ee9-238f1e1d08c6",
+    "missing": false
+  },
+  "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\audio.meta": {
+    "time": 1661300816838.0325
+  },
+  "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\audio": {
+    "time": 1661506692731.2234,
+    "uuid": "fea097c4-e375-4c35-bbd6-55252997ae6c",
+    "missing": false
+  },
+  "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\audio\\SupperBullet.wav.meta": {
+    "time": 1661300831895.8604
+  },
+  "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\audio\\SupperBullet.wav": {
+    "time": 1661300700728.1758,
+    "uuid": "37e23616-7b18-4b67-9f2c-414b3b2a71c4",
+    "missing": false
+  },
+  "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\audio\\bullet.wav.meta": {
+    "time": 1661301034291.6272
+  },
+  "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\audio\\bullet.wav": {
+    "time": 1661301012664.7087,
+    "uuid": "71d46252-8623-45e7-b226-3a0b019dac32",
+    "missing": false
+  },
+  "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\Prefab\\enemydie.prefab.meta": {
+    "time": 1661311575891.2786
+  },
+  "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\Prefab\\enemydie.prefab": {
+    "time": 1661506529375.6406,
+    "uuid": "3f5653be-801d-491a-a13b-4853684e7ee9",
+    "missing": false
+  },
+  "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\script\\Enemydie.ts.meta": {
+    "time": 1661312084360.4944
+  },
+  "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\script\\Enemydie.ts": {
+    "time": 1661506362807.4167,
+    "uuid": "35efbba4-f3a5-4100-8917-ce9e278b7716",
+    "missing": false
+  },
+  "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\audio\\BGM-In Combat.wav.meta": {
+    "time": 1661327169294.1777
+  },
+  "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\audio\\BGM-In Combat.wav": {
+    "time": 1661327035453.2388,
+    "uuid": "449e4b19-f564-40e9-94be-61ee49dc1b06",
+    "missing": false
+  },
+  "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\img\\enemydie.png.meta": {
+    "time": 1661304966673.5835
+  },
+  "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\img\\enemydie.png": {
+    "time": 1661304951850.8418,
+    "uuid": "b48f90ba-5832-4703-8ac3-0d429646142a",
+    "missing": false
+  },
+  "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\audio\\Fly_die.wav.meta": {
+    "time": 1661327169290.8914
+  },
+  "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\audio\\Fly_die.wav": {
+    "time": 1661327152090.489,
+    "uuid": "6311e8de-c990-422c-b052-2df8bec7ab2b",
+    "missing": false
+  },
+  "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\audio\\begin.wav.meta": {
+    "time": 1661327169293.177
+  },
+  "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\audio\\begin.wav": {
+    "time": 1661327105170.94,
+    "uuid": "53769b41-ab08-4378-8a98-6ef5da0bd169",
+    "missing": false
+  },
+  "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\img\\EnemyBullet.png.meta": {
+    "time": 1661506837049.6445
+  },
+  "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\img\\EnemyBullet.png": {
+    "time": 1661506814746.103,
+    "uuid": "c9ead525-1832-48ea-aa48-ce73cd8e0eea",
+    "missing": false
+  },
+  "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\Prefab\\enemybullet1.prefab.meta": {
+    "time": 1661507555555.1138
+  },
+  "C:\\Users\\zxq\\Desktop\\飞机大战\\NewProject\\assets\\Prefab\\enemybullet1.prefab": {
+    "time": 1661508831853.8613,
+    "uuid": "667ccdd6-6052-4598-86be-420babe5aa8f",
     "missing": false
   }
 }
